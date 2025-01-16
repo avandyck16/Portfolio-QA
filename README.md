@@ -65,6 +65,7 @@ detallados y optimizar procesos de calidad.
 ---
 <p align="center">
     <img src="/assets/img/bugs.png" alt="Projects" width="250">
+    <img src="/assets/img/visit-modified.png" alt="Notion Profile and Portfolio" width="250">
 </p>
 
 
@@ -115,24 +116,30 @@ Obtuve un Certificado en Soporte Técnico por mi destreza en mantenimiento de si
 #### Cambridge University Press
 Reconocimiento Flipped Learning por implementar plataformas digitales, IA, y gamificación para la adquisición de lenguaje.
 #### TripleTen
+
 Líder en Documentación | Diseño de Pruebas | Buscador de Bugs | Pruebas de API | Tester de Apps Móviles | Mago de Bases de Datos | Automatización & Selenium.
 
-<p align="left">
-    <img src="/assets/img/certificate.png" alt="Certificado" width="300">
+<p align="center">
+  <img src="/assets/img/certificate.png" alt="Certificado" width="300">  
 </p>
-
 
 <p align="center">
-    <img src="/assets/img/visit-modified.png" alt="Notion Profile and Portfolio" width="300">
+  <img src="/assets/img/badge1.png" alt="1" width="300">
+  
+  <img src="/assets/img/Badge2.png" alt="1" width="300">
+</p>  
+<p align="center">
+  <img src="/assets/img/Badge3.png" alt="1" width="300">
+  
+  <img src="/assets/img/Badge4.png" alt="1" width="300">
 </p>
 
-![Badge1](/assets/img/badge1.png)
-![Badge2](/assets/img/Badge2.png)
-![Badge3](/assets/img/Badge3.png)
-![Badge4](/assets/img/Badge4.png)
-![Badge8](/assets/img/Badge8.png)
-![Badge8](/assets/img/ESP_Database_Wizard_1686821215.png)
-![Badge](/assets/img/LOGRO.png)
+<p align="center">
+    <img src="/assets/img/Badge8.png" alt="1" width="300">
+    <img src="/assets/img/ESP_Database_Wizard_1686821215.png" alt="1" width="300">
+    <img src="/assets/img/LOGRO.png" alt="1" width="300">
+</p>
+
 
 
 <!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelvandyck)
