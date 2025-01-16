@@ -64,7 +64,6 @@ detallados y optimizar procesos de calidad.
 
 ---
 <p align="center">
-    <img src="/assets/img/bugs.png" alt="Projects" width="250">
     <img src="/assets/img/visit-modified.png" alt="Notion Profile and Portfolio" width="250">
 </p>
 
