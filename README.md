@@ -1,6 +1,9 @@
 Titulo
 Acerca de mí
 
+<p align="center">
+    <img src="/assets/img/visit-modified.png" alt="Notion Profile and Portfolio" width="300">
+</p>
 
 
 
