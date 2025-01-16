@@ -117,7 +117,9 @@ Reconocimiento Flipped Learning por implementar plataformas digitales, IA, y gam
 #### TripleTen
 Líder en Documentación | Diseño de Pruebas | Buscador de Bugs | Pruebas de API | Tester de Apps Móviles | Mago de Bases de Datos | Automatización & Selenium.
 
-
+<p align="left">
+    <img src="/assets/img/certificate.png" alt="Certificado" width="300">
+</p>
 
 
 <p align="center">
@@ -129,6 +131,8 @@ Líder en Documentación | Diseño de Pruebas | Buscador de Bugs | Pruebas de AP
 ![Badge3](/assets/img/Badge3.png)
 ![Badge4](/assets/img/Badge4.png)
 ![Badge8](/assets/img/Badge8.png)
+![Badge8](/assets/img/ESP_Database_Wizard_1686821215.png)
+![Badge](/assets/img/LOGRO.png)
 
 
 <!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelvandyck)
