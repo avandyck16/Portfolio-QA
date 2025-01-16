@@ -1,5 +1,6 @@
 title: Axel Van Dyck
-logo: /assets/img/cvpic.jpg
-description: ¡Hola! Bienvenido a mi portafolio de Quality Assurance Tester. [Visit my GitHub Profile](https://github.com/avandyck16)
-show_downloads: false
+logo: /assets/img/cvpic_circle.png
+description: ¡Hola! Bienvenido a mi portafolio de Quality Assurance Tester. 
+show_downloads: True
+google_analytics: [Visit my GitHub Profile](https://github.com/avandyck16)
 theme: jekyll-theme-minimal
