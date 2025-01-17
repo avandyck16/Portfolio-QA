@@ -87,9 +87,13 @@ detallados y optimizar procesos de calidad.
 #### QA Tester Manual | ALSET Inc. | *11/2024 – Presente*
 
 ● Participo activamente en pruebas de desarrollo y mantenimiento de proyectos como PopBookings, BeautySnap360; ERP y plataformas de prótesis médicas como Dynomic y B-Onic.
+
 ● Como único QA, gestiono el análisis y las pruebas de 8 proyectos que van desde complejidad básica (iTORA, Stadiobet) hasta avanzada (3PL LOGISTICS, Zeptos PFM).
+
 ● Diseño planes y casos de prueba para escenarios funcionales, no funcionales, regresión, manejo de errores y diseño, con enfoque en pruebas manuales.
+
 ● Redacto y reviso puntualmente la documentación funcional y gestiono tickets de implementación y seguimiento de errores en Azure DevOps.
+
 ● Key Tools: SDLC, Selenium IDE, Python, Postman, Git, Azure DevOps, MongoDB, Sentry, AppsFlyer, Android, iOS, documentación funcional, Fresh Desk.
 
 ![SDLC](https://img.shields.io/badge/SDLC-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white)
@@ -102,9 +106,13 @@ detallados y optimizar procesos de calidad.
 ## **Certificaciones**
 
 • Quality Assurance Engineering – TripleTen 11/2024
+
 • EF English Certificate | C1 LEVEL - 2/2024
+
 • TOEFL ITP | Score 583
+
 • Cambridge Teaching License Certificate - 8/2021
+
 
 ## **Reconocimientos e Insignias**
 
@@ -114,7 +122,13 @@ Obtuve un Certificado en Soporte Técnico por mi destreza en mantenimiento de si
 Reconocimiento Flipped Learning por implementar plataformas digitales, IA, y gamificación para la adquisición de lenguaje.
 #### TripleTen
 
-Líder en Documentación | Diseño de Pruebas | Buscador de Bugs | Pruebas de API | Tester de Apps Móviles | Mago de Bases de Datos | Automatización & Selenium.
+![LinkedIn](https://img.shields.io/badge/Líder_en_Documentación-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Diseño_de_Pruebas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Buscador_de_Bugs-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Pruebas_de_API-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Tester_de_Apps_Móviles-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Mago_de_Bases_de_Datos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Automatización_y_Selenium-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Badges](/assets/img/logos.png)
 ![Certificado](/assets/img/2certificate.png)
