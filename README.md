@@ -35,6 +35,8 @@ detallados y optimizar procesos de calidad.
 - Herramientas de diseño y debugging: DevTools, Figma, GitHub.
 - Gestión de pruebas y seguimiento de defectos: JIRA, Azure DevOps.
 
+<div align="center">
+  
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -51,6 +53,8 @@ detallados y optimizar procesos de calidad.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+</div>
+
 --- 
 
 ### Habilidades Blandas
@@ -62,9 +66,11 @@ detallados y optimizar procesos de calidad.
 
 ---
 
+<div align="center">
+
 [![Notion](/assets/img/readmpice.png)](https://axel-qa.short.gy/PortfolioNotion)
 
-
+</div>
 
 ## **Proyectos | Experiencia Técnica**
 
