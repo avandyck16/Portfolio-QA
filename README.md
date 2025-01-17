@@ -51,7 +51,7 @@ detallados y optimizar procesos de calidad.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-#
+--- 
 
 ### Habilidades Blandas
 
@@ -60,11 +60,9 @@ detallados y optimizar procesos de calidad.
 - Excelentes habilidades de autogestión, planificación, análisis de datos, redacción de manuales.
   
 
-Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo| Orientación a resultados| Organización | Proactividad | Atención al detalle
-
 ---
 
-![Notion](/assets/img/readme.png)]
+[![Notion](/assets/img/readmpice.png)](https://axel-qa.short.gy/PortfolioNotion)
 
 
 
@@ -124,7 +122,7 @@ Líder en Documentación | Diseño de Pruebas | Buscador de Bugs | Pruebas de AP
 
 
 
-<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelvandyck)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelvandyck)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acontreras9012@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:avdyck@alset.com.mx)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://axel-qa.short.gy/PortfolioNotion)
