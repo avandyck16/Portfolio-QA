@@ -35,7 +35,7 @@ detallados y optimizar procesos de calidad.
 - Herramientas de diseño y debugging: DevTools, Figma, GitHub.
 - Gestión de pruebas y seguimiento de defectos: JIRA, Azure DevOps.
 
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -64,11 +64,8 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 ---
 
-![Notion](/assets/img/visit-modified.png)
+![Notion](/assets/img/readme.png)]
 
-<p align="center">
-    <img src="/assets/img/visit-modified.png" alt="Notion Profile and Portfolio" width="300">
-</p>
 
 
 ## **Proyectos | Experiencia Técnica**
@@ -121,7 +118,7 @@ Reconocimiento Flipped Learning por implementar plataformas digitales, IA, y gam
 
 Líder en Documentación | Diseño de Pruebas | Buscador de Bugs | Pruebas de API | Tester de Apps Móviles | Mago de Bases de Datos | Automatización & Selenium.
 
-![Certificado](/assets/img/certificate.png)
+![Certificado](/assets/img/logos.png)
 
 
 
