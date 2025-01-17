@@ -116,7 +116,8 @@ Reconocimiento Flipped Learning por implementar plataformas digitales, IA, y gam
 
 Líder en Documentación | Diseño de Pruebas | Buscador de Bugs | Pruebas de API | Tester de Apps Móviles | Mago de Bases de Datos | Automatización & Selenium.
 
-![Certificado](/assets/img/logos.png)
+![Badges](/assets/img/logos.png)
+![Certificado](/assets/img/2certificate.png)
 
 
 
