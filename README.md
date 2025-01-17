@@ -55,7 +55,7 @@ detallados y optimizar procesos de calidad.
 
 ### Habilidades Blandas
 
-- Minucioso, curioso y orientado a los detalles, inglés C1.
+- Minucioso, curioso y orientado a los detalles, **inglés C1**.
 - Colaboración y comunicación efectiva con equipos de desarrollo y soporte.
 - Excelentes habilidades de autogestión, planificación, análisis de datos, redacción de manuales.
   
@@ -86,15 +86,17 @@ detallados y optimizar procesos de calidad.
 
 #### QA Tester Manual | ALSET Inc. | *11/2024 – Presente*
 
-● Participo activamente en pruebas de desarrollo y mantenimiento de proyectos como PopBookings, BeautySnap360; ERP y plataformas de prótesis médicas como Dynomic y B-Onic.
+● Participo activamente en pruebas de **desarrollo** y **mantenimiento** de proyectos como PopBookings, BeautySnap360; ERP y plataformas de prótesis médicas como Dynomic y B-Onic.
 
-● Como único QA, gestiono el análisis y las pruebas de 8 proyectos que van desde complejidad básica (iTORA, Stadiobet) hasta avanzada (3PL LOGISTICS, Zeptos PFM).
+• Como único **QA**, gestiono el **análisis** y las **pruebas** de 8 proyectos que van desde complejidad básica (iTORA, Stadiobet) hasta avanzada (3PL LOGISTICS, Zeptos PFM).
 
-● Diseño planes y casos de prueba para escenarios funcionales, no funcionales, regresión, manejo de errores y diseño, con enfoque en pruebas manuales.
+• Mejoré en un **20%** la eficiencia de los planes de prueba al analizar requisitos y estructurarlos en validaciones de funcionalidad, manejo de errores y diseño, mediante Azure DevOps y BrowserStack manteniendo tiempos de ejecución óptimos, logrando asegurar una cobertura completa y detectando posibles omisiones.
 
-● Redacto y reviso puntualmente la documentación funcional y gestiono tickets de implementación y seguimiento de errores en Azure DevOps.
+• Reduje significativamente el tiempo necesario para pruebas de **sanidad y regresión** al organizar e indexar los casos de prueba de forma lógica, siguiendo de manera fluida el flujo de trabajo crítico de cada proyecto y mejorando la cobertura de pruebas.
 
-● Key Tools: SDLC, Selenium IDE, Python, Postman, Git, Azure DevOps, MongoDB, Sentry, AppsFlyer, Android, iOS, documentación funcional, Fresh Desk.
+• Diseño planes y casos de prueba para escenarios funcionales, no funcionales, regresión, manejo de errores y diseño, con enfoque en **pruebas manuales**.
+
+• Redacto y reviso puntualmente la documentación funcional y gestiono tickets de implementación y seguimiento de errores en Azure DevOps.
 
 ![SDLC](https://img.shields.io/badge/SDLC-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=black)
@@ -107,7 +109,7 @@ detallados y optimizar procesos de calidad.
 
 • Quality Assurance Engineering – TripleTen 11/2024
 
-• EF English Certificate | C1 LEVEL - 2/2024
+• EF **English** Certificate | C1 LEVEL - 2/2024
 
 • TOEFL ITP | Score 583
 
@@ -117,9 +119,9 @@ detallados y optimizar procesos de calidad.
 ## **Reconocimientos e Insignias**
 
 #### Microsoft Virtual Academy
-Obtuve un Certificado en Soporte Técnico por mi destreza en mantenimiento de sistemas y resolución de problemas técnicos.
+Obtuve un Certificado en **Soporte Técnico** por mi destreza en mantenimiento de sistemas y resolución de problemas técnicos.
 #### Cambridge University Press
-Reconocimiento Flipped Learning por implementar plataformas digitales, IA, y gamificación para la adquisición de lenguaje.
+Reconocimiento Flipped Learning por implementar **plataformas digitales**, **IA**, y gamificación para la adquisición de lenguaje.
 #### TripleTen
 
 ![LinkedIn](https://img.shields.io/badge/Líder_en_Documentación-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
