@@ -60,11 +60,14 @@ detallados y optimizar procesos de calidad.
 - Excelentes habilidades de autogestión, planificación, análisis de datos, redacción de manuales.
   
 
-`Análisis de datos` | `Resolución de problemas` | `Comunicación efectiva` | `Trabajo en equipo`| `Orientación a resultados`| `Organización` | `Proactividad` | `Atención al detalle` 
+Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo| Orientación a resultados| Organización | Proactividad | Atención al detalle
 
 ---
+
+![Notion](/assets/img/visit-modified.png)
+
 <p align="center">
-    <img src="/assets/img/visit-modified.png" alt="Notion Profile and Portfolio" width="250">
+    <img src="/assets/img/visit-modified.png" alt="Notion Profile and Portfolio" width="300">
 </p>
 
 
@@ -118,26 +121,9 @@ Reconocimiento Flipped Learning por implementar plataformas digitales, IA, y gam
 
 Líder en Documentación | Diseño de Pruebas | Buscador de Bugs | Pruebas de API | Tester de Apps Móviles | Mago de Bases de Datos | Automatización & Selenium.
 
-<p align="center">
-  <img src="/assets/img/certificate.png" alt="Certificado" width="300">  
-</p>
+![Certificado](/assets/img/certificate.png)
 
-<p align="center">
-  <img src="/assets/img/badge1.png" alt="1" width="300">
-  
-  <img src="/assets/img/Badge2.png" alt="1" width="300">
-</p>  
-<p align="center">
-  <img src="/assets/img/Badge3.png" alt="1" width="300">
-  
-  <img src="/assets/img/Badge4.png" alt="1" width="300">
-</p>
 
-<p align="center">
-    <img src="/assets/img/Badge8.png" alt="1" width="300">
-    <img src="/assets/img/ESP_Database_Wizard_1686821215.png" alt="1" width="300">
-    <img src="/assets/img/LOGRO.png" alt="1" width="300">
-</p>
 
 
 
