@@ -1,4 +1,6 @@
-# **Acerca de mí**
+## **QA TESTER | ANALISTA QA MANUAL**
+
+### **Acerca de mí**
 
 Tester bilingüe con experiencia en pruebas manuales, diseño de casos de prueba y gestión de defectos. Apasionado por el software,
 uso de datos y flujos de trabajo ágiles que aseguren la calidad del producto y reducir la tasa de errores. Ojo agudo para el detalle,
@@ -27,13 +29,19 @@ detallados y optimizar procesos de calidad.
 
 ### Habilidades Tecnológicas
 
-- Python, Selenium WebDriver e IDE, Postman, CLI, Jira, Git, Azure DevOps, FreshDesk, Generative AI.
-- Bases de datos: Consultas SQL, MongoDB, PostgreSQL.
-- Diseño y ejecución de casos de prueba, testing manual en web apps y apps móviles.
-- Automatización de pruebas front-end, back-end; API, Unit Tests.
-- Métodos POM, mapas lógicos, diagramas de flujo y equivalencias.
-- Herramientas de diseño y debugging: DevTools, Figma, GitHub.
-- Gestión de pruebas y seguimiento de defectos: JIRA, Azure DevOps.
+● **Python, Selenium** WebDriver e IDE, **Postman, CLI, Jira, Git, Azure DevOps, FreshDesk**, Generative **AI**.
+
+● Bases de datos: Consultas SQL, **MongoDB, PostgreSQL.**
+
+● Diseño y ejecución de casos de prueba, **testing** manual, pruebas de **sanidad, regresión, positivas, negativas, diseño.**
+
+● **Automatización** de pruebas front-end con **Selenium**, y de **API** con **Python**.
+
+● Métodos **POM**, mapas lógicos, diagramas de flujo y equivalencias.
+
+● Herramientas de diseño y debugging: **DevTools, Figma, GitHub.**
+
+● Gestión de pruebas **móviles y web apps**, seguimiento de defectos: **JIRA, Azure DevOps.**
 
  
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)
@@ -53,7 +61,7 @@ detallados y optimizar procesos de calidad.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
---- 
+---
 
 ### Habilidades Blandas
 
@@ -62,18 +70,16 @@ detallados y optimizar procesos de calidad.
 - Excelentes habilidades de autogestión, planificación, análisis de datos, redacción de manuales.
   
 
----
-
 
 [![Notion](/assets/img/readmpice.png)](https://axel-qa.short.gy/PortfolioNotion)
 
 
-## **Proyectos | Experiencia Técnica**
+### **Proyectos | Experiencia Técnica**
 
 #### Testing manual y principios de automatización | TripleTen | *05/2024 - 11/2024*
-- Participé en pruebas de humo, funcionalidad, regresión, diseño, y API en proyectos como Urban Maps, Urban Grocers, y Urban Scooter, en apps móviles y web apps.
-- Diseñé estrategias de testing manual y automatizado para el front-end y back-end, además de trabajar con bases de datos, manejo de servidor con CLI (comandos), y Git.
-- Implementé pruebas de API utilizando Postman, Python, y Selenium WebDriver logrando identificar y documentar más de 30 defectos críticos y un ahorro del 20% en tiempo de pruebas repetitivas.
+- Participé en pruebas de **humo, funcionalidad, regresión, diseño, y API** en proyectos como **Urban Maps, Urban Grocers, y Urban Scooter**, en apps móviles y web apps.
+- Diseñé estrategias de **testing manual y automatizado** para el front-end y back-end, además de trabajar con **bases de datos**, manejo de **servidor** con CLI (comandos), y Git.
+- Implementé pruebas de **API** utilizando Postman, Python, y Selenium WebDriver logrando identificar y documentar más de 30 defectos críticos y un ahorro del 20% en tiempo de pruebas repetitivas.
 - Key Tools:
   
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -84,19 +90,21 @@ detallados y optimizar procesos de calidad.
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
-## **EXPERIENCIA PROFESIONAL**
+### **EXPERIENCIA PROFESIONAL**
 
 #### QA Tester Manual | ALSET Inc. | *11/2024 – Presente*
 
-● Participo activamente en pruebas de **desarrollo** y **mantenimiento** de proyectos como PopBookings, BeautySnap360; ERP y plataformas de prótesis médicas como Dynomic y B-Onic.
+● Participo activamente en **pruebas** de **desarrollo y mantenimiento** de proyectos como PopBookings, BeautySnap360; ERP y plataformas de prótesis médicas como Dynomic y B-Onic. 
 
-• Como único **QA**, gestiono el **análisis** y las **pruebas** de 8 proyectos que van desde complejidad básica (iTORA, Stadiobet) hasta avanzada (3PL LOGISTICS, Zeptos PFM).
+• Como único **QA**, gestiono el análisis y las pruebas de 8 proyectos que van desde complejidad básica hasta avanzada como 3PL LOGISTICS y Zeptos.
 
-• Mejoré en un **20%** la eficiencia de los planes de prueba al analizar requisitos y estructurarlos en validaciones de funcionalidad, manejo de errores y diseño, mediante Azure DevOps y BrowserStack manteniendo tiempos de ejecución óptimos, logrando asegurar una cobertura completa y detectando posibles omisiones.
+• Mejoré en un **20%** la eficiencia de los planes de prueba al analizar requisitos y estructurarlos en validaciones de funcionalidad, manejo de errores y diseño, manteniendo tiempos de ejecución óptimos, logrando asegurar una cobertura completa y detectando posibles omsiones.
 
 • Reduje significativamente el tiempo necesario para pruebas de **sanidad y regresión** al organizar e indexar los casos de prueba de forma lógica, siguiendo de manera fluida el flujo de trabajo crítico de cada proyecto y mejorando la cobertura de pruebas.
 
-• Diseño planes y casos de prueba para escenarios funcionales, no funcionales, regresión, manejo de errores y diseño, con enfoque en **pruebas manuales**.
+• Implementé un sistema interno para el **seguimiento y gestión de bugs**, logrando reducir el tiempo de reporte en un 20%. Este sistema centraliza la información relevante para el equipo de desarrollo mediante un formato optimizado y modificadores de estado, mejorando significativamente el flujo de seguimiento y actualización sin necesidad de recurrir a plataformas externas.
+
+• Diseño planes y casos de prueba para escenarios **funcionales, regresión, sanidad, manejo de errores y diseño**, con enfoque en pruebas manuales.
 
 • Redacto y reviso puntualmente la documentación funcional y gestiono tickets de implementación y seguimiento de errores en Azure DevOps.
 
@@ -107,24 +115,24 @@ detallados y optimizar procesos de calidad.
 
 ---
 
-## **Certificaciones**
+### **Certificaciones**
 
-• Quality Assurance Engineering – TripleTen 11/2024
+• **Quality Assurance Engineering** – *TripleTen 11/2024*
 
-• EF **English** Certificate | C1 LEVEL - 2/2024
+• EF **English** Certificate | *C1 LEVEL - 2/2024*
 
-• TOEFL ITP | Score 583
+• **TOEFL ITP** | *Score 583*
 
-• Cambridge Teaching License Certificate - 8/2021
+• **Cambridge Teaching License Certificate** - *8/2021*
 
 
-## **Reconocimientos e Insignias**
+### **Reconocimientos e Insignias**
 
 #### Microsoft Virtual Academy
 Obtuve un Certificado en **Soporte Técnico** por mi destreza en mantenimiento de sistemas y resolución de problemas técnicos.
 #### Cambridge University Press
 Reconocimiento Flipped Learning por implementar **plataformas digitales**, **IA**, y gamificación para la adquisición de lenguaje.
-#### TripleTen
+#### TripleTen Insignias
 
 ![LinkedIn](https://img.shields.io/badge/Líder_en_Documentación-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/Diseño_de_Pruebas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
