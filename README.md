@@ -1,4 +1,4 @@
-## **QA TESTER | ANALISTA QA **
+## **QA Tester | Manual & Automation | Bug Hunter**
 
 ### **Acerca de mí**
 
