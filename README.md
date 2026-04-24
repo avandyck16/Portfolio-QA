@@ -1,4 +1,4 @@
-## **QA TESTER | ANALISTA QA MANUAL**
+## **QA TESTER | ANALISTA QA **
 
 ### **Acerca de mí**
 
