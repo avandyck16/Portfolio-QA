@@ -101,16 +101,22 @@ un ahorro del 20% en tiempo de pruebas repetitivas
 ● Soy orgullosamente responsable del mantenimiento de más de ocho proyectos como único QA, esto me ha permitido construir bases firmes en testing
 manual, incursionar en automatización, diseño de casos de prueba, seguimiento de defectos y documentación final, entregando resultados
 sólidos en el equipo.
+
+
 ● Trabajo en la implementación inicial de automatización de pruebas con Cypress, diseñando casos de prueba automatizados e
 integrándolos en pipelines de Azure DevOps.
+
 ● Mi trabajo en testing está enfocado a plataformas web y móviles en Android y en iOS, en pruebas de caja negra enfocado al usuario y de
 caja gris en donde el objetivo es identificar analizar peticiones, respuestas, y manejo de errores deliberado.
+
 ● Implemento un testing de sanidad y estabilidad semanal que nos apoyan a estar anticipados a posibles incidencias por parte del negocio y
 a mantener los proyectos estables, junto con el seguimiento de defectos para mantener una óptima trazabilidad que busca reducir fuga de
 errores, así como en la documentación para el usuario final.
+
 ● Mejoré en un 20% la eficiencia de los planes de prueba al analizar requisitos y estructurarlos en validaciones de diseño, funcionalidad, y
 manejo de errores, apoyado con Azure DevOps y herramientas de organización, asegurando tiempos óptimos de ejecución y una cobertura
 más robusta.
+
 ● Reduje el tiempo de pruebas de sanidad y regresión mediante la organización lógica e indexación de casos de prueba, siguiendo el flujo
 crítico de cada proyecto y facilitando los procesos de testing.
 
