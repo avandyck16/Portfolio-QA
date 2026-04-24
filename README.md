@@ -131,13 +131,13 @@ crítico de cada proyecto y facilitando los procesos de testing.
 ### **Certificaciones**
 
 • **Quality Assurance Engineering** – *TripleTen 11/2024*
-
+---
 • EF **English** Certificate | *C1 LEVEL - 2/2024*
 
 • **TOEFL ITP** | *Score 583*
 
 • **Cambridge Teaching License Certificate** - *8/2021*
-
+---
 
 ### **Reconocimientos e Insignias**
 
