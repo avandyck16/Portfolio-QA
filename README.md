@@ -2,10 +2,13 @@
 
 ### **Acerca de mí**
 
-Tester bilingüe con experiencia en pruebas manuales, diseño de casos de prueba y gestión de defectos. Apasionado por el software,
-uso de datos y flujos de trabajo ágiles que aseguren la calidad del producto y reducir la tasa de errores. Ojo agudo para el detalle,
-motivado por la curiosidad para cazar bugs, alta capacidad para analizar y documentar resultados de pruebas, generar informes
-detallados y optimizar procesos de calidad.
+Tester bilingüe con experiencia en pruebas manuales y automatización UI, diseño de casos de prueba, documentación y gestión de
+defectos. Experiencia en estrategias de testing funcional (caja negra y gris). Perfil analítico, con alta capacidad de autogestión y
+enfoque en la detección temprana de defectos para asegurar estabilidad y confiabilidad del producto.
+Como docente profesional en años anteriores, aprendí y trabajé junto a uno de los principales consultores de NatGeo Education y Pearson, 
+viendo a muchos estudiantes superar desafíos en distintas áreas y etapas de la vida. Esto me enseñó el valor del aprendizaje continuo 
+y el trabajo con propósito, principios que aplico en mi día a día.
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/axelvandyck">
@@ -29,19 +32,14 @@ detallados y optimizar procesos de calidad.
 
 ### Habilidades Tecnológicas
 
-● **Python, Selenium** WebDriver e IDE, **Postman, CLI, Jira, Git, Azure DevOps, FreshDesk**, Generative **AI**.
+● **Cypress, Selenium WebDriver / IDE**, Postman, Azure DevOps, Jira, FreshDesk, Generative **AI**.
 
-● Bases de datos: Consultas SQL, **MongoDB, PostgreSQL.**
+● Testing funcional (positivas y negativas), **caja negra, caja gris**, regresión, exploratorias y sanidad; validación de **UI/UX**
 
-● Diseño y ejecución de casos de prueba, **testing** manual, pruebas de **sanidad, regresión, positivas, negativas, diseño.**
+● Pruebas manuales y automatización UI mediante scripts. Testing web y móvil (Android, iOS).
 
-● **Automatización** de pruebas front-end con **Selenium**, y de **API** con **Python**.
+● Métodos POM, mapas lógicos, diagramas de flujo, diseño de pruebas y equivalencias.
 
-● Métodos **POM**, mapas lógicos, diagramas de flujo y equivalencias.
-
-● Herramientas de diseño y debugging: **DevTools, Figma, GitHub.**
-
-● Gestión de pruebas **móviles y web apps**, seguimiento de defectos: **JIRA, Azure DevOps.**
 
  
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)
@@ -65,10 +63,10 @@ detallados y optimizar procesos de calidad.
 
 ### Habilidades Blandas
 
-- Minucioso, curioso y orientado a los detalles, **inglés C1**.
-- Colaboración y comunicación efectiva con equipos de desarrollo y soporte.
-- Excelentes habilidades de autogestión, planificación, análisis de datos, redacción de manuales.
-  
+● Minucioso, curioso y orientado a los detalles, **Inglés C1.**
+
+● Excelentes habilidades de autogestión, planificación, análisis de datos, y redacción técnica
+
 
 
 [![Notion](/assets/img/readmpice.png)](https://axel-qa.short.gy/PortfolioNotion)
@@ -77,9 +75,15 @@ detallados y optimizar procesos de calidad.
 ### **Proyectos | Experiencia Técnica**
 
 #### Testing manual y principios de automatización | TripleTen | *05/2024 - 11/2024*
-- Participé en pruebas de **humo, funcionalidad, regresión, diseño, y API** en proyectos como **Urban Maps, Urban Grocers, y Urban Scooter**, en apps móviles y web apps.
-- Diseñé estrategias de **testing manual y automatizado** para el front-end y back-end, además de trabajar con **bases de datos**, manejo de **servidor** con CLI (comandos), y Git.
-- Implementé pruebas de **API** utilizando Postman, Python, y Selenium WebDriver logrando identificar y documentar más de 30 defectos críticos y un ahorro del 20% en tiempo de pruebas repetitivas.
+
+- Diseñé estrategias de testing manual y automatizado para el front-end y API, donde ejecuté pruebas de humo, funcionalidad, regresión,
+diseño, y API en proyectos como Urban Maps, Urban Grocers, y Urban Scooter, en apps móviles y web apps, además de trabajar con
+análisis en queries en bases de datos, manejo de servidor con CLI y Git.
+
+- Construí bases sólidas en Postman, y Selenium WebDriver en Python logrando identificar y documentar más de 30 defectos críticos y
+un ahorro del 20% en tiempo de pruebas repetitivas
+
+
 - Key Tools:
   
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -92,21 +96,24 @@ detallados y optimizar procesos de calidad.
 
 ### **EXPERIENCIA PROFESIONAL**
 
-#### QA Tester Manual | ALSET Inc. | *11/2024 – Presente*
+#### QA Tester | ALSET Inc. | *11/2024 – Presente*
 
-● Participo activamente en **pruebas** de **desarrollo y mantenimiento** de proyectos como PopBookings, BeautySnap360; ERP y plataformas de prótesis médicas como Dynomic y B-Onic. 
+● Soy orgullosamente responsable del mantenimiento de más de ocho proyectos como único QA, esto me ha permitido construir bases firmes en testing
+manual, incursionar en automatización, diseño de casos de prueba, seguimiento de defectos y documentación final, entregando resultados
+sólidos en el equipo.
+● Trabajo en la implementación inicial de automatización de pruebas con Cypress, diseñando casos de prueba automatizados e
+integrándolos en pipelines de Azure DevOps.
+● Mi trabajo en testing está enfocado a plataformas web y móviles en Android y en iOS, en pruebas de caja negra enfocado al usuario y de
+caja gris en donde el objetivo es identificar analizar peticiones, respuestas, y manejo de errores deliberado.
+● Implemento un testing de sanidad y estabilidad semanal que nos apoyan a estar anticipados a posibles incidencias por parte del negocio y
+a mantener los proyectos estables, junto con el seguimiento de defectos para mantener una óptima trazabilidad que busca reducir fuga de
+errores, así como en la documentación para el usuario final.
+● Mejoré en un 20% la eficiencia de los planes de prueba al analizar requisitos y estructurarlos en validaciones de diseño, funcionalidad, y
+manejo de errores, apoyado con Azure DevOps y herramientas de organización, asegurando tiempos óptimos de ejecución y una cobertura
+más robusta.
+● Reduje el tiempo de pruebas de sanidad y regresión mediante la organización lógica e indexación de casos de prueba, siguiendo el flujo
+crítico de cada proyecto y facilitando los procesos de testing.
 
-• Como único **QA**, gestiono el análisis y las pruebas de 8 proyectos que van desde complejidad básica hasta avanzada como 3PL LOGISTICS y Zeptos.
-
-• Mejoré en un **20%** la eficiencia de los planes de prueba al analizar requisitos y estructurarlos en validaciones de funcionalidad, manejo de errores y diseño, manteniendo tiempos de ejecución óptimos, logrando asegurar una cobertura completa y detectando posibles omsiones.
-
-• Reduje significativamente el tiempo necesario para pruebas de **sanidad y regresión** al organizar e indexar los casos de prueba de forma lógica, siguiendo de manera fluida el flujo de trabajo crítico de cada proyecto y mejorando la cobertura de pruebas.
-
-• Implementé un sistema interno para el **seguimiento y gestión de bugs**, logrando reducir el tiempo de reporte en un 20%. Este sistema centraliza la información relevante para el equipo de desarrollo mediante un formato optimizado y modificadores de estado, mejorando significativamente el flujo de seguimiento y actualización sin necesidad de recurrir a plataformas externas.
-
-• Diseño planes y casos de prueba para escenarios **funcionales, regresión, sanidad, manejo de errores y diseño**, con enfoque en pruebas manuales.
-
-• Redacto y reviso puntualmente la documentación funcional y gestiono tickets de implementación y seguimiento de errores en Azure DevOps.
 
 ![SDLC](https://img.shields.io/badge/SDLC-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=black)
