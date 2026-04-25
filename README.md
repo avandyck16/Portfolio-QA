@@ -32,9 +32,9 @@ y el trabajo con propósito, principios que aplico en mi día a día.
 
 ### Habilidades Tecnológicas
 
-● **Cypress, Selenium WebDriver / IDE**, Postman, Azure DevOps, Jira, FreshDesk, Generative **AI**.
+● **Cypress, Selenium WebDriver / IDE**, VS Code, Postman, Azure DevOps, Jira, FreshDesk, Generative **AI**.
 
-● Testing funcional (positivas y negativas), **caja negra, caja gris**, regresión, exploratorias y sanidad; validación de **UI/UX**
+● Testing funcional, **shift-left testing, caja negra, caja gris**, regresión, exploratorias y sanidad; validación de **UI/UX**
 
 ● Pruebas manuales y automatización UI mediante scripts. Testing web y móvil (Android, iOS).
 
@@ -131,12 +131,19 @@ crítico de cada proyecto y facilitando los procesos de testing.
 ### **Certificaciones**
 
 • **Quality Assurance Engineering** – *TripleTen 11/2024*
+
 ---
+
 • EF **English** Certificate | *C1 LEVEL - 2/2024*
+
+---
 
 • **TOEFL ITP** | *Score 583*
 
+---
+
 • **Cambridge Teaching License Certificate** - *8/2021*
+
 ---
 
 ### **Reconocimientos e Insignias**
