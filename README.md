@@ -2,12 +2,13 @@
 
 ### **Acerca de mí**
 
-Tester bilingüe con experiencia en pruebas manuales y automatización UI, diseño de casos de prueba, documentación y gestión de
-defectos. Experiencia en estrategias de testing funcional (caja negra y gris). Perfil analítico, con alta capacidad de autogestión y
-enfoque en la detección temprana de defectos para asegurar estabilidad y confiabilidad del producto.
-Como docente profesional en años anteriores, aprendí y trabajé junto a uno de los principales consultores de NatGeo Education y Pearson, 
-viendo a muchos estudiantes superar desafíos en distintas áreas y etapas de la vida. Esto me enseñó el valor del aprendizaje continuo 
-y el trabajo con propósito, principios que aplico en mi día a día.
+
+
+Tester bilingüe con experiencia en pruebas manuales, automatización, diseño de casos de prueba, documentación y gestión de defectos. Actualmente comenzando a implementar marcos de automatización en Azure DevOps.
+
+Perfil analítico con alta capacidad de autogestión, enfocado en la participación temprana del SDLC para asegurar estabilidad y confiabilidad del producto. 
+
+Como docente profesional en años anteriores, aprendí y trabajé junto a uno de los principales consultores de NatGeo Education y Pearson, viendo a muchos estudiantes superar desafíos en distintas áreas y etapas de la vida; esto me enseñó el valor del aprendizaje continuo y el trabajo con propósito, principios que aplico en mi día a día.
 
 
 <div align="center">
