@@ -43,7 +43,7 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 
 
  
-![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,cypress,selenium,powershell,postman,git,figma)
 
 ![postman](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
