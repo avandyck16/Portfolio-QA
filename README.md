@@ -43,21 +43,20 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 
 
  
-![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,cypress,selenium,powershell,postman,git,figma)
+![My Skills](https://skillicons.dev/icons?i=azure,sentry,py,cypress,selenium,powershell,postman,figma)
 
-![postman](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![cypress](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 ![FreshDesk](https://img.shields.io/badge/FreshDesk-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![azure](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![selenium](https://img.shields.io/badge/DevTools-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+
 
 
 ---
@@ -122,10 +121,6 @@ más robusta.
 crítico de cada proyecto y facilitando los procesos de testing.
 
 
-![SDLC](https://img.shields.io/badge/SDLC-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=black)
-![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
