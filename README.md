@@ -1,10 +1,11 @@
-## **QA Tester | Manual & Automation | Bug Hunter**
+## **QA Automation Engineer (Cypress, JS) | E2E & Manual Testing**
 
 ### **Acerca de mí**
 
 
 
-Tester bilingüe con experiencia en pruebas manuales, automatización, diseño de casos de prueba, documentación y gestión de defectos. Actualmente comenzando a implementar marcos de automatización en Azure DevOps.
+QA Automation Engineer con experiencia en pruebas manuales y automatizadas, pruebas E2E para aplicaciones web y móviles.
+Sólida base en testing manual, diseño y gestión de automatización de pruebas en JavaScript.
 
 Perfil analítico con alta capacidad de autogestión, enfocado en la participación temprana del SDLC para asegurar estabilidad y confiabilidad del producto. 
 
@@ -33,17 +34,17 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 
 ### Habilidades Tecnológicas
 
-● **Cypress, Selenium WebDriver / IDE**, VS Code, Postman, Azure DevOps, Jira, FreshDesk, Generative **AI**.
-
-● Testing funcional, **shift-left testing, caja negra, caja gris**, regresión, exploratorias y sanidad; validación de **UI/UX**
-
-● Pruebas manuales y automatización UI mediante scripts. Testing web y móvil (Android, iOS).
-
-● Métodos POM, mapas lógicos, diagramas de flujo, diseño de pruebas y equivalencias.
-
+● End-to-end testing (Manual y Automatizado con Cypress). 
+•	Diseño de casos de prueba, ejecución de pruebas y seguimiento de defectos.
+•	Azure DevOps para test management & task tracking, Jira, FreshDesk.
+•	Testing en Web y móvil (iOS & Android).
+•	Ejecución de pruebas de regresión, exploratorias y de sanidad; mantenimiento de suites manuales y automatizadas.
+•	Automatización de pruebas con JavaScript y Cypress, Selenium WebDriver, Selenium IDE y Postman.
+•	Análisis de requests/responses, manejo de línea de comandos (CLI) en entornos como CMD, PowerShell, Terminal, Git Bash.
+•	Idiomas: Inglés C1 fluido.
 
  
-![My Skills](https://skillicons.dev/icons?i=azure,sentry,py,cypress,selenium,powershell,postman,figma)
+![My Skills](https://skillicons.dev/icons?i=azure,cypress,sentry,selenium,powershell,postman,figma,javascript)
 
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
@@ -63,25 +64,53 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 
 ### Habilidades Blandas
 
-● Minucioso, curioso y orientado a los detalles, **Inglés C1.**
+● Minucioso, curioso y orientado a los detalles.
 
-● Excelentes habilidades de autogestión, planificación, análisis de datos, y redacción técnica
+● Excelentes habilidades de autogestión, planificación, análisis de datos, y redacción técnica.
 
 
 
 [![Notion](/assets/img/readmpice.png)](https://axel-qa.short.gy/PortfolioNotion)
 
 
-### **Proyectos | Experiencia Técnica**
+### *EXPERIENCIA PROFESIONAL*
 
-#### Testing manual y principios de automatización | TripleTen | *05/2024 - 11/2024*
+#### QA Engineer (Automation & Manual Testing) | ALSET Inc. | 11/2024 – Presente
 
-- Diseñé estrategias de testing manual y automatizado para el front-end y API, donde ejecuté pruebas de humo, funcionalidad, regresión,
-diseño, y API en proyectos como Urban Maps, Urban Grocers, y Urban Scooter, en apps móviles y web apps, además de trabajar con
-análisis en queries en bases de datos, manejo de servidor con CLI y Git.
+•	Responsable único de QA en múltiples proyectos web y móviles (iOS & Android), impulsando procesos de testing, seguimiento de defectos y estabilidad del producto con alto nivel de ownership y autonomía.
 
-- Construí bases sólidas en Postman, y Selenium WebDriver en Python logrando identificar y documentar más de 30 defectos críticos y
-un ahorro del 20% en tiempo de pruebas repetitivas
+•	Implementé automatización inicial con Cypress para reducir esfuerzo manual en pruebas E2E y de regresión, aumentando la confianza en las liberaciones.
+
+•	Ejecución de pruebas manuales y automatizadas aplicando enfoques de caja negra y caja gris, incluyendo validación de requests/responses y validación de manejo de errores.
+
+•	Implementé procesos semanales de sanity y stability testing para anticipar incidencias del negocio y reducir fuga de defectos mediante trazabilidad efectiva.
+
+•	Mejoré en un 20% la eficiencia de planes de prueba mediante análisis de requerimientos y estructuración de validaciones funcionales, de diseño y manejo de errores.
+
+•	Reduje tiempos de pruebas de sanidad y regresión mediante organización e indexación lógica de casos de prueba basados en flujos críticos.
+
+### *EXPERIENCIA ADICIONAL*
+
+#### Docente de Inglés y Science Studies | Colegio Elbrus | 2022 – 2024
+•	Diseñé rúbricas, procesos de evaluación y seguimiento orientados a resultados y mejora continua. 
+
+•	Implementé programas de desarrollo y análisis de desempeño mediante métricas y evaluación continua. 
+
+•	Desarrollé habilidades avanzadas de comunicación, documentación y organización en entornos dinámicos y de alto rendimiento.
+
+
+### *PROYECTOS Y EXPERIENCIA TECNICA*
+
+#### Testing manual y principios de automatización | TripleTen |2023 - 2024
+•	Ejecuté pruebas manuales y validaciones funcionales para aplicaciones web y móviles en proyectos académicos enfocados en front-end y API testing.
+
+•	Diseñé y ejecuté casos de prueba de humo, regresión, funcionalidad, diseño y API en proyectos como Urban Grocers, Urban Scooter y Urban Routes.
+
+•	Utilicé herramientas como Postman, Selenium WebDriver y Python para introducirme en automatización de pruebas y validaciones repetitivas.
+
+•	Trabajé con consultas SQL básicas, análisis de requests/responses, manejo de CLI y control de versiones con Git.
+
+•	Identifiqué y documenté más de 30 defectos mediante procesos estructurados de testing y seguimiento.
 
 
 - Key Tools:
@@ -94,31 +123,11 @@ un ahorro del 20% en tiempo de pruebas repetitivas
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
-### **EXPERIENCIA PROFESIONAL**
-
-#### QA Tester | ALSET Inc. | *11/2024 – Presente*
-
-● Soy orgullosamente responsable del mantenimiento de más de ocho proyectos como único QA, esto me ha permitido construir bases firmes en testing
-manual, incursionar en automatización, diseño de casos de prueba, seguimiento de defectos y documentación final, entregando resultados
-sólidos en el equipo.
-
-
-● Trabajo en la implementación inicial de automatización de pruebas con Cypress, diseñando casos de prueba automatizados e
-integrándolos en pipelines de Azure DevOps.
-
-● Mi trabajo en testing está enfocado a plataformas web y móviles en Android y en iOS, en pruebas de caja negra enfocado al usuario y de
-caja gris en donde el objetivo es identificar analizar peticiones, respuestas, y manejo de errores deliberado.
-
-● Implemento un testing de sanidad y estabilidad semanal que nos apoyan a estar anticipados a posibles incidencias por parte del negocio y
-a mantener los proyectos estables, junto con el seguimiento de defectos para mantener una óptima trazabilidad que busca reducir fuga de
-errores, así como en la documentación para el usuario final.
-
-● Mejoré en un 20% la eficiencia de los planes de prueba al analizar requisitos y estructurarlos en validaciones de diseño, funcionalidad, y
-manejo de errores, apoyado con Azure DevOps y herramientas de organización, asegurando tiempos óptimos de ejecución y una cobertura
-más robusta.
-
-● Reduje el tiempo de pruebas de sanidad y regresión mediante la organización lógica e indexación de casos de prueba, siguiendo el flujo
-crítico de cada proyecto y facilitando los procesos de testing.
+### **EXPERIENCIA ADICIONAL*
+•	Instructor de Inglés | Planet English, Fast English y Step-Up Consultants | 2018 – 2024
+•	Agente BackOffice | Proyecto Microsoft – Grupo Novandi | 2018
+•	Agente de Soporte Técnico | Proyecto AIFA – Soporte 911 | 2016
+•	Alfabetizador | Proyecto JCF – IHEA Hidalgo | 2019 – 2020
 
 
 
