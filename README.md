@@ -44,7 +44,13 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 •	Idiomas: Inglés C1 fluido.
 
  
-![My Skills](https://skillicons.dev/icons?i=azure,cypress,sentry,selenium,powershell,postman,figma,javascript)
+<!--![My Skills](https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,windows,apple)-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,windows,apple" />
+  </a>
+</p>
 
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
