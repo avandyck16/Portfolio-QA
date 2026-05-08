@@ -35,12 +35,19 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 ### Habilidades Tecnológicas
 
 ● End-to-end testing (Manual y Automatizado con Cypress). 
+
 •	Diseño de casos de prueba, ejecución de pruebas y seguimiento de defectos.
+
 •	Azure DevOps para test management & task tracking, Jira, FreshDesk.
+
 •	Testing en Web y móvil (iOS & Android).
+
 •	Ejecución de pruebas de regresión, exploratorias y de sanidad; mantenimiento de suites manuales y automatizadas.
+
 •	Automatización de pruebas con JavaScript y Cypress, Selenium WebDriver, Selenium IDE y Postman.
+
 •	Análisis de requests/responses, manejo de línea de comandos (CLI) en entornos como CMD, PowerShell, Terminal, Git Bash.
+
 •	Idiomas: Inglés C1 fluido.
 
  
