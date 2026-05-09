@@ -102,7 +102,7 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 
 •	Reduje tiempos de pruebas de sanidad y regresión mediante organización e indexación lógica de casos de prueba basados en flujos críticos.
 
-### *EXPERIENCIA ADICIONAL*
+
 
 #### Docente de Inglés y Science Studies | Colegio Elbrus | 2022 – 2024
 •	Diseñé rúbricas, procesos de evaluación y seguimiento orientados a resultados y mejora continua. 
@@ -136,10 +136,14 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
-### **EXPERIENCIA ADICIONAL*
+### *EXPERIENCIA ADICIONAL*
+
 •	Instructor de Inglés | Planet English, Fast English y Step-Up Consultants | 2018 – 2024
+
 •	Agente BackOffice | Proyecto Microsoft – Grupo Novandi | 2018
+
 •	Agente de Soporte Técnico | Proyecto AIFA – Soporte 911 | 2016
+
 •	Alfabetizador | Proyecto JCF – IHEA Hidalgo | 2019 – 2020
 
 
