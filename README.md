@@ -5,9 +5,9 @@
 
 
 QA Engineer con experiencia en testing automatizado y manual, enfocado en calidad y entendimiento del producto, colaboración
-temprana en el SDLC y automatización de pruebas con Cypress y JavaScript. Experiencia en diseño y ejecución de pruebas E2E,
-regresión y exploratorias, así como debugging, documentación técnica y trabajo colaborativo con equipos de desarrollo y
-stakeholders.
+temprana en el SDLC y automatización de pruebas con Cypress y JavaScript. Experiencia en diseño, planificación y ejecución de
+pruebas E2E, SIT y UAT, así como validaciones pre y post deployment (BVT), debugging, documentación técnica y trabajo
+colaborativo con equipos de desarrollo, producto y stakeholders.
 
 Perfil analítico con alta capacidad de autogestión, enfocado en la participación temprana del SDLC para asegurar estabilidad y confiabilidad del producto. 
 
@@ -38,18 +38,19 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 
 #### ● QA & Testing:
 
-End-to-end testing manual y automatizado, diseño y ejecución de casos de prueba, pruebas funcionales, regresión,
-exploratorias y sanity testing, documentación y seguimiento de defectos.
+End-to-end testing manual y automatizado, diseño y ejecución de casos de prueba, pruebas funcionales, regresión, SIT y
+UAT, exploratorias y sanity testing, documentación y seguimiento de defectos.
 
 #### ● Automation:
 
-Automatización con JavaScript y Cypress, mantenimiento y ejecución de suites automatizadas, validación E2E y debugging
-de pruebas. Familiarizado con Selenium WebDriver, Selenium IDE y Postman.
+Automatización con JavaScript y Cypress en E2E, Pre-deploy (Build Validation Testing) & Post-deploy Testing,
+mantenimiento de suites, validación de flujos, debugging de pruebas, Git workflow. Familiarizado con Selenium WebDriver,
+Selenium IDE y Postman.
 
 #### ● Herramientas & Colaboración:
 
-Azure DevOps, Jira, FreshDesk, Git, GitHub y línea de comandos (CMD, PowerShell, Git Bash). Trabajo colaborativo con
-equipos de desarrollo, producto y stakeholders.
+VsCode, Azure DevOps, Jira, FreshDesk, Git, GitHub y línea de comandos (CMD, PowerShell, Git Bash). Trabajo colaborativo
+con equipos de desarrollo, producto y stakeholders.
 
 #### ● Web & Mobile Testing:
 
@@ -99,22 +100,22 @@ Alta adaptabilidad a nuevas herramientas, frameworks y procesos de testing. Ingl
 
 #### QA Engineer (Automation & Manual Testing) | ALSET Inc. | 2024 – Presente
 
-• Responsable de QA en múltiples proyectos SaaS, web y móviles (iOS & Android), impulsando procesos de testing,
-seguimiento de defectos y estabilidad del producto con alto nivel de ownership y autonomía.
+• Responsable de QA en múltiples proyectos SaaS, web y móviles (iOS & Android), impulsando procesos de testing incluyendo
+cobertura SIT & UAT, seguimiento de defectos y estabilidad del producto con alto nivel de ownership y autonomía.
 
 • Desarrollo y mantengo pruebas automatizadas E2E con JavaScript y Cypress, incluyendo validación de flujos, debugging,
-cobertura smoke/regression y optimización de selectores.
+cobertura smoke/regression y optimización de selectores en front end.
 
 • Participo activamente en workflows de GitHub para mantenimiento y organización de suites automatizadas.
 
-• Mejoro la claridad en pruebas automatizadas mediante optimización de selectores, manejo de flaky tests, generar reportes
-HTML, realizar ediciones en el front end, y estrategias para manejar cold starts en backend y evitar falsos positivos.
+• Mejoro la claridad en pruebas automatizadas mediante optimización de selectores en front end, manejo de flaky tests,
+generar reportes HTML y estrategias para manejar cold starts en backend y evitar falsos positivos.
 
-• Trabajo en el mantenimiento y mejora continua de frameworks de automatización, ajustando specs, organizando suites,
-optimizando comandos, mejorando así la estabilidad y eficiencia de ejecución de pruebas.
+• Trabajo en el mantenimiento y mejora continua de frameworks de automatización, ajustando specs y scripts, organizando
+suites, mejorando así la estabilidad y eficiencia de ejecución de pruebas antes y después de deploys.
 
-• Familiarizado con conceptos de CI/CD y prácticas de automatización como ejecución previa a liberaciones, smoke validation y
-regression testing.
+• Familiarizado con conceptos de CI/CD y experiencia en buenas prácticas de automatización como Build Validation Testing en
+Pipelines y Post-Deploy testing, smoke validation y regression testing.
 
 • Participo tempranamente en procesos SDLC, colaborando con equipos de desarrollo y producto, así como realizando demos
 funcionales para stakeholders en inglés y español.
@@ -171,11 +172,11 @@ funcionales para stakeholders en inglés y español.
 
 ### **Certificaciones**
 
-• **Quality Assurance Engineering** – *TripleTen 11/2024*
+• **Quality Assurance Engineering** – *TripleTen 2024*
 
 ---
 
-• EF **English** Certificate | *C1 LEVEL - 2/2024*
+• EF **English** Certificate | *C1 LEVEL - 2024*
 
 ---
 
