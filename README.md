@@ -133,11 +133,11 @@ Implementación de una suite de automatización E2E para una plataforma de brand
 
 - **Aspectos destacados:**
 
-• 36 escenarios automatizados.
-• Compatibilidad con 3 entornos de ejecución.
-• Reducción del tiempo de validación de ~45 min a ~5 min.
-• Generación automática de reportes y artifacts.
-• Resolución de desafíos relacionados con cold starts, flaky tests, flujos dinámicos y CI/CD.
+* 36 escenarios automatizados.
+* Compatibilidad con 3 entornos de ejecución.
+* Reducción del tiempo de validación de ~45 min a ~5 min.
+* Generación automática de reportes y artifacts.
+* Resolución de desafíos relacionados con cold starts, flaky tests, flujos dinámicos y CI/CD.
 
 👉 Ver Case Study Completo <a href="https://github.com/avandyck16/BrandHub-Testing-Demo.git"> 
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
