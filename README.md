@@ -27,7 +27,7 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
   <a href="https://github.com/avandyck16">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://qa-warrior.notion.site/Proyectos-17b57b9508108045a847d189d56a298e">
+  <a href="https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </a>
 </div>
@@ -304,7 +304,7 @@ Link a todos mis proyectos en GitHub:
 
 Link a todos mis proyectos en Notion UI:
 
-👉 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://qa-warrior.notion.site/Proyectos-17b57b9508108045a847d189d56a298e)
+👉 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31)
 
 <sub>────────────────────────────────────────────────────────</sub>
 <!--- Key Tools:
