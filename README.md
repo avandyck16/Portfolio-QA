@@ -21,16 +21,16 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
   <a href="https://avandyck16.github.io/Portfolio-QA/assets/img/Axel%20Van%20Dyck%20QA%20Engineer.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ver-CV_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
 </a>
-  <a href="https://github.com/avandyck16">
+  <a href="https://github.com/avandyck16" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31">
+  <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31" target="_blank">
     <img src="https://img.shields.io/badge/Projects_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
   </a>
-  <a href="mailto:acontreras9012@gmail.com">
+  <a href="mailto:acontreras9012@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/axelvandyck">
+  <a href="https://www.linkedin.com/in/axelvandyck" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
@@ -67,7 +67,7 @@ Alta adaptabilidad a nuevas herramientas, frameworks y procesos de testing. Ingl
 <!--![My Skills](https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,windows,apple)-->
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,windows,apple" />
   </a>
 </p>
