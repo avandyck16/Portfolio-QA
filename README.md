@@ -1,4 +1,4 @@
-## **QA Automation Engineer (Cypress, JS) | E2E & Manual Testing**
+## **QA Engineer | Test Automation & Manual Testing | Cypress | JS | E2E **
 
 ### **Acerca de mí**
 
