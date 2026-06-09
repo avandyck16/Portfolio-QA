@@ -307,6 +307,7 @@ Link a todos mis proyectos en Notion UI:
 👉 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31)
 
 <sub>────────────────────────────────────────────────────────</sub>
+
 <!--- Key Tools:
   
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
