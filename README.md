@@ -6,7 +6,7 @@
 
 QA Engineer con experiencia en testing automatizado y manual, enfocado en calidad y entendimiento del producto, colaboración
 temprana en el SDLC y automatización de pruebas con Cypress y JavaScript. Experiencia en diseño, planificación y ejecución de
-pruebas E2E, SIT y UAT, así como validaciones pre y post deployment (BVT), debugging, documentación técnica y trabajo
+pruebas E2E, SIT y UAT, Post deployment Testing (BVT), debugging, documentación técnica y trabajo
 colaborativo con equipos de desarrollo, producto y stakeholders.
 
 Perfil analítico con alta capacidad de autogestión, enfocado en la participación temprana del SDLC para asegurar estabilidad y confiabilidad del producto. 
@@ -14,21 +14,24 @@ Perfil analítico con alta capacidad de autogestión, enfocado en la participaci
 Como docente profesional en años anteriores, aprendí y trabajé junto a uno de los principales consultores de NatGeo Education y Pearson, viendo a muchos estudiantes superar desafíos en distintas áreas y etapas de la vida; esto me enseñó el valor del aprendizaje continuo y el trabajo con propósito, principios que aplico en mi día a día.
 
 
+
+
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/axelvandyck">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:acontreras9012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="mailto:avdyck@alset.com.mx">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-  </a>
+  <a href="https://avandyck16.github.io/Portfolio-QA/assets/img/Axel%20Van%20Dyck%20QA%20Engineer.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ver-CV_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
+</a>
   <a href="https://github.com/avandyck16">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31">
+    <img src="https://img.shields.io/badge/Projects_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+  </a>
+  <a href="mailto:acontreras9012@gmail.com">
+    <img src="https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/axelvandyck">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
@@ -69,6 +72,7 @@ Alta adaptabilidad a nuevas herramientas, frameworks y procesos de testing. Ingl
   </a>
 </p>
 
+<!--
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
@@ -79,57 +83,17 @@ Alta adaptabilidad a nuevas herramientas, frameworks y procesos de testing. Ingl
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-
-
----
-
-<!--  [![Notion](/assets/img/readmpice.png)](https://axel-qa.short.gy/PortfolioNotion) -->
-
-
-### EXPERIENCIA PROFESIONAL
-
-#### QA Engineer (Automation & Manual Testing) | ALSET Inc. | 2024 – Presente
-
-• Responsable de QA en múltiples proyectos SaaS, web y móviles (iOS & Android), impulsando procesos de testing incluyendo
-cobertura SIT & UAT, seguimiento de defectos y estabilidad del producto con alto nivel de ownership y autonomía.
-
-• Desarrollo y mantengo pruebas automatizadas E2E con JavaScript y Cypress, incluyendo validación de flujos, debugging,
-cobertura smoke/regression y optimización de selectores en front end.
-
-• Participo activamente en workflows de GitHub para mantenimiento y organización de suites automatizadas.
-
-• Mejoro la claridad en pruebas automatizadas mediante optimización de selectores en front end, manejo de flaky tests,
-generar reportes HTML y estrategias para manejar cold starts en backend y evitar falsos positivos.
-
-• Trabajo en el mantenimiento y mejora continua de frameworks de automatización, ajustando specs y scripts, organizando
-suites, mejorando así la estabilidad y eficiencia de ejecución de pruebas antes y después de deploys.
-
-• Familiarizado con conceptos de CI/CD y experiencia en buenas prácticas de automatización como Build Validation Testing en
-Pipelines y Post-Deploy testing, smoke validation y regression testing.
-
-• Participo tempranamente en procesos SDLC, colaborando con equipos de desarrollo y producto, así como realizando demos
-funcionales para stakeholders en inglés y español.
-
-
-
-#### Docente de Inglés y Science Studies | Colegio Elbrus | 2022 – 2024
-
-•	Diseñé rúbricas, procesos de evaluación y seguimiento orientados a resultados y mejora continua. 
-
-•	Implementé programas de desarrollo y análisis de desempeño mediante métricas y evaluación continua. 
-
-•	Desarrollé habilidades avanzadas de comunicación, documentación y organización en entornos dinámicos y de alto rendimiento.
+-->
 
 ---
 
-### PROYECTOS | EXPERIENCIA TÉCNICA
+## PROYECTOS 
 
-### BrandHub – E2E Automation Framework
+### BrandHub Testing Framework - Azure
 
 - **Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
 
-- **Descripción:**
-Implementación de una suite de automatización E2E para una plataforma de branding con IA generativa, integrada a Azure DevOps para validaciones Build Validation Testing (BVT), regresión y validaciones pre-deployment.
+Implementación de una suite de automatización E2E para una plataforma de branding con IA generativa, integrada a Azure DevOps para validaciones Build Validation Testing (BVT), regresión y validaciones post-deployment.
 
 - **Aspectos destacados:**
 
@@ -138,20 +102,31 @@ Implementación de una suite de automatización E2E para una plataforma de brand
 * Reducción del tiempo de validación de ~45 min a ~5 min.
 * Generación automática de reportes y artifacts.
 * Resolución de desafíos relacionados con cold starts, flaky tests, flujos dinámicos y CI/CD.
+  <img width="450" height="180" alt="image" src="https://github.com/user-attachments/assets/3a1bbb58-a139-4786-81f3-a7a320fcac94" />
+  <img width="450" height="180" alt="image" src="https://github.com/user-attachments/assets/a199ff53-41d4-4f06-9917-302ce5d83323" />
 
-👉 Ver Case Study Completo <a href="https://github.com/avandyck16/BrandHub-Testing-Demo.git"> 
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+
+ 👇 **LINKS**
+
+<a href="https://github.com/avandyck16/BrandHub-Testing-Cypress-JS-Azure"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
+  <br>
+<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b95081080148201ec78ed41344c">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
 
   
-<sub>────────────────────────────────────────────────────────</sub>
+────────────────────────────────────────────────────────
 
 
-## Directivas de Infraestructura Inicial para Automatización
+### Directivas de Infraestructura Inicial para Automatización
 
 **Stack:** Cypress · Azure DevOps · YAML Pipelines · Mochawesome · CI/CD
 
-Implementación de directivas técnicas para la integración de suites Cypress dentro de Azure DevOps, incluyendo configuración de variables de entorno, generación automática de reportes, publicación de artifacts y estrategias de ejecución cross-browser.
+Diseñé e implementé directivas técnicas para la ejecución de pruebas automatizadas en Azure DevOps; reporting
+automatizado, manejo de variables de entorno, adaptación de pipelines y estrategias de ejecución multi-browser.
 
 **Aspectos destacados:**
 
@@ -163,11 +138,21 @@ Implementación de directivas técnicas para la integración de suites Cypress d
 * Diseño de ejecución multi-browser mediante matrices de Azure DevOps.
 * Documentación técnica para facilitar adopción y mantenimiento del framework.
 
-👉 Ver Case Study Completo
+<img width="250" height="210" alt="image" src="https://github.com/user-attachments/assets/7cd819c3-a244-47a2-b591-b50d8498ae1f" />
+<img width="250" height="210" alt="image" src="https://github.com/user-attachments/assets/b9ec5e6a-a022-4f73-816d-073f93384373" />
+<img width="250" height="210" alt="image" src="https://github.com/user-attachments/assets/7fd40263-5ed7-4a68-8392-87e92304f350" />
+
+
+
+ 👇 **LINKS**
 
 <a href="https://github.com/avandyck16/Automation-Pipeline-Infrastructure-Guidelines"> 
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
+  <br>
+<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b95081080c0b407c7fd2f9cf7f6">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
 
   
 <sub>────────────────────────────────────────────────────────</sub>
@@ -193,10 +178,15 @@ Proyecto de automatización E2E enfocado en validar el flujo completo de solicit
   <img width="242" height="132" alt="image" src="https://github.com/user-attachments/assets/fcb36aa0-ce06-4f4f-986d-eb7f75beb1ca" />
 
 
-👉 Ver Case Study Completo
-<a href="https://github.com/avandyck16/Selenium-Sprint-8-TripleTenQA"> 
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/Urban-Routes-E2E-Taxi-Booking-Automation-TripleTen"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
+  <br>
+<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b95081080d58489db14a3ded7f7">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
   
 <sub>────────────────────────────────────────────────────────</sub>
 
@@ -217,10 +207,15 @@ Proyecto enfocado en pruebas funcionales para una plataforma de movilidad urbana
 * Validación de datos en base de datos mediante consultas SQL.
 * Documentación y seguimiento de defectos en Jira.
 
-👉 Ver Case Study Completo
-<a href="https://github.com/avandyck16/Urban-Scooter-Sprint-9-Final-TripleTen.git"> 
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/Urban-Scooter-Sprint-9-Final-TripleTen"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
+  <br>
+<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b95081080258a66f0a377f82443">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
   
 <sub>────────────────────────────────────────────────────────</sub>
 
@@ -239,10 +234,16 @@ Proyecto orientado al aprendizaje de automatización web utilizando Selenium y P
 * Organización modular del proyecto mediante múltiples páginas y componentes.
 * Validación de elementos, navegación y operaciones sobre publicaciones.
 
-👉 Ver Case Study Completo
-<a href="https://github.com/avandyck16/Python-Selenium-Auto-Tasks.git"> 
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/Python-Selenium-Auto-Tasks"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
+  <br>
+<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b950810800e92f5d1d811af2514">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
+  
   
 <sub>────────────────────────────────────────────────────────</sub>
 
@@ -262,12 +263,16 @@ Proyecto de automatización web enfocado en la implementación de Page Object Mo
 * Organización modular mediante páginas, componentes y clases de prueba.
 * Gestión automatizada del ciclo de vida de las pruebas con setup y teardown.
 
-👉 Ver Case Study Completo
+👇 **LINKS**
 
 <a href="https://github.com/avandyck16/POM-y-Localizadores-Python-Selenium"> 
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
-  
+  <br>
+<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b9508108041af57cdcff95b6ec7">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
+    
 <sub>────────────────────────────────────────────────────────</sub>
 
 
@@ -290,13 +295,82 @@ Proyecto enfocado en el diseño y ejecución de pruebas para servicios API relac
 <img width="242" height="132" alt="image" src="https://github.com/user-attachments/assets/d0797745-d4ee-4596-a7b4-e5b05253c550" />
 
 
-👉 Ver Case Study Completo
+👇 **LINKS**
 
 <a href="https://github.com/avandyck16/Sprint-4-TripleTen-QA"> 
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
+  <br>
+<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b9508108040a837e475f54cb7f7">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
   
 <sub>────────────────────────────────────────────────────────</sub>
+
+
+## 🏛️ Proyecto Histórico (2011–2012)
+
+### IT MANAGEMENT TOOLS
+
+* **Stack:** • Windows Batch (.bat) · CMD · Windows Administration · Scripting · Automation
+
+Toolkit de administración y mantenimiento para Windows desarrollado como proyecto personal para automatizar tareas repetitivas de soporte técnico, diagnóstico y recuperación del sistema. Utilizado durante años en equipos personales, de familiares, clientes y posteriormente en entornos profesionales de soporte técnico.
+
+* **Aspectos destacados:**
+
+- Menú interactivo basado en consola para centralizar herramientas administrativas.
+- Automatización de tareas de red, mantenimiento y recuperación del sistema.
+- Integración de utilidades nativas de Windows como ipconfig, netsh, SFC, DISM y CHKDSK.
+- Utilizado durante más de una década como herramienta práctica de diagnóstico y soporte técnico.
+- Proyecto histórico que refleja mis primeros acercamientos a la automatización y resolución de problemas mediante scripting.
+
+<img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/35f4e88c-9a00-4ce6-8028-ec7662d56475" />
+<img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/b819eacd-0a97-48ae-b3fe-ac3b5fa1414a" />
+<img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/7bee3fee-2d81-4b24-9859-6c4d96dffd2e" />
+
+
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/it-management-tools-axel"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> 
+  <br>
+<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37a57b95081080f29c65fd61abacbc3e">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
+
+---
+
+<!--  [![Notion](/assets/img/readmpice.png)](https://axel-qa.short.gy/PortfolioNotion) -->
+
+
+### EXPERIENCIA PROFESIONAL ACTUAL
+
+#### QA Engineer (Automation & Manual Testing) | ALSET Inc. | 2024 – Presente
+
+• Responsable de QA en múltiples proyectos SaaS, web y móviles (iOS & Android), impulsando la cobertura SIT & UAT,
+seguimiento de defectos y estabilidad del producto con alto nivel de ownership y autonomía.
+
+• Desarrollo y mantengo pruebas E2E con JavaScript y Cypress para aplicaciones web, integrando validaciones dentro de
+procesos de CI/CD antes y después del despliegue para mejorar la cobertura y confiabilidad de las entregas.
+
+• Implementé estrategias para estabilización de pruebas como optimización de selectores, manejo de flaky tests, mitigación
+de cold starts en backend, mejorando la confiabilidad de la automatización y reduciendo falsos positivos.
+
+• Participé en la implementación y evolución de frameworks de automatización, organizando suites, ajustando specs y
+mejorando la eficiencia de ejecución para smoke testing, regression testing y Build Validation Testing (BVT), en conjunto
+con workflows de GitHub.
+
+• Integré generación automática de reportes HTML dentro de procesos de validación en pipelines, facilitando la visibilidad de
+resultados, el análisis de fallos durante el ciclo de entrega, y el contenido visual y funcional de las suites.
+
+• Colaboro activamente con equipos de desarrollo y producto dentro del SDLC, participando en revisiones funcionales,
+validaciones tempranas y demostraciones para stakeholders en inglés y español.
+
+
+---
+
+
 
 Link a todos mis proyectos en GitHub:
 
@@ -333,11 +407,6 @@ Link a todos mis proyectos en Notion UI:
 
 ### **Reconocimientos e Insignias**
 
-#### Microsoft Virtual Academy
-Obtuve un Certificado en **Soporte Técnico** por mi destreza en mantenimiento de sistemas y resolución de problemas técnicos.
-#### Cambridge University Press
-Reconocimiento Flipped Learning por implementar **plataformas digitales**, **IA**, y gamificación para la adquisición de lenguaje.
-#### TripleTen Insignias
 
 <!--![LinkedIn](https://img.shields.io/badge/Líder_en_Documentación-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/Diseño_de_Pruebas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
