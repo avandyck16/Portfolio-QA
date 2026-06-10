@@ -68,7 +68,7 @@ Alta adaptabilidad a nuevas herramientas, frameworks y procesos de testing. Ingl
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,windows,apple" />
   </a>
 </p>
 
