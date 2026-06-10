@@ -15,9 +15,7 @@
 ### ➡️ Stack Actual
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
 </p>
 
 
@@ -51,14 +49,11 @@ Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
 <a href="https://qa-warrior.notion.site/Projects-Portfolio-08a7f2a1544a48d391cd91eaa5423c2d">
    <img src="https://img.shields.io/badge/Ver_Casos_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </a>
-
-</div>
 <br>
-<div align="center">
-   
+     
 [![acontreras9012@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com)&nbsp;[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)   
-   
-</div> 
+     
+</div>
 
 ---
 
