@@ -1,97 +1,74 @@
-## **QA Engineer | Test Automation & Manual Testing | Cypress | JS | E2E**
+<!--## **QA Engineer | Test Automation & Manual Testing | Cypress | JS | E2E**  EN EL YAML-->
 
 ### **Acerca de mí**
 
+● QA Engineer con bases sólidas y experiencia en estrategias de testing automatizado y manual, con inglés C1 fluido.
+
+● Estas estrategias incluyen **shift-left testing, SIT, UAT, BVT, Smoke, Regression, Exploratory, Git Workflow, Organización de Specs, entornos, commands, scripts, front-end selectors, YAML pipeline configuration, debugging**.
+
+● Este portafolio reúne proyectos profesionales, académicos y personales completamente documentados.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ Cada uno incluye repositorio, case study, desafíos técnicos, soluciones implementadas, métricas, snippets de código y evidencia visual de resultados.
+
+---
+
+### ➡️ Stack Actual
+
+Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines for CI/CD · Python · Selenium WebDriver · CLI · Postman · Web · Mobile
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
+  </a>
+</p>
 
 
-QA Engineer con experiencia en testing automatizado y manual, enfocado en calidad y entendimiento del producto, colaboración
-temprana en el SDLC y automatización de pruebas con Cypress y JavaScript. Experiencia en diseño, planificación y ejecución de
-pruebas. Testing E2E, SIT, UAT, Pre & Post deployment Testing (BVT), debugging, documentación técnica y trabajo
-colaborativo con equipos de desarrollo, producto y stakeholders.
+### ➡️ Experiencia Profesional Última / Actual
 
-Perfil analítico con alta capacidad de autogestión, enfocado en la participación temprana del SDLC para asegurar estabilidad y confiabilidad del producto. 
+Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
 
-Como docente profesional en años anteriores, aprendí y trabajé junto a uno de los principales consultores de NatGeo Education y Pearson, viendo a muchos estudiantes superar desafíos en distintas áreas y etapas de la vida; esto me enseñó el valor del aprendizaje continuo y el trabajo con propósito, principios que aplico en mi día a día.
+--- 
 
+*"Como docente profesional en años anteriores, aprendí y trabajé junto a uno de los principales consultores de NatGeo Education y Pearson, viendo a muchos estudiantes superar desafíos en distintas áreas y etapas de la vida; esto me enseñó el valor del aprendizaje continuo y el trabajo con propósito, principios que aplico en mi día a día."*
 
+---
 
 
 
 <div align="center">
   <a href="https://avandyck16.github.io/Portfolio-QA/assets/Axel%20Van%20Dyck%20QA%20Engineer.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Ver-CV_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
+    <img src="https://img.shields.io/badge/Ver_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
+     
 </a>
-  <a href="https://github.com/avandyck16" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://qa-warrior.notion.site/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31" target="_blank">
-    <img src="https://img.shields.io/badge/Projects_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
-  </a>
-  <a href="mailto:acontreras9012@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/axelvandyck" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+  <a href="https://avandyck16.github.io/Portfolio-QA/assets/EN%20Axel%20Van%20Dyck%20QA%20Engineer.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
+</a>
 
----
+<a href="https://github.com/avandyck16?tab=repositories">
+   <img src="https://img.shields.io/badge/Ver_Repositorios-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-## Habilidades Tecnológicas
-
-#### ● QA & Testing:
-
-End-to-end testing manual y automatizado, diseño y ejecución de casos de prueba, pruebas funcionales, regresión, SIT y
-UAT, exploratorias y sanity testing, documentación y seguimiento de defectos.
-
-#### ● Automation:
-
-Automatización con JavaScript y Cypress en E2E, Build Validation Testing & Post-deploy Testing,
-mantenimiento de suites, validación de flujos, debugging de pruebas, Git workflow. Familiarizado con Selenium WebDriver,
-Selenium IDE y Postman.
-
-#### ● Herramientas & Colaboración:
-
-VsCode, Azure DevOps, Git, GitHub, línea de comandos (CMD, PowerShell, Git Bash), Jira, FreshDesk, Trabajo colaborativo
-con equipos de desarrollo, producto y stakeholders.
-
-#### ● Web & Mobile Testing:
-
-Testing en aplicaciones SaaS web y móviles (iOS & Android), validación funcional y experiencia de usuario en distintos
-dispositivos y navegadores.
-
-#### ● Adaptabilidad & Idiomas:
-Alta adaptabilidad a nuevas herramientas, frameworks y procesos de testing. Inglés C1 fluido.
+<a href="https://qa-warrior.notion.site/Projects-Portfolio-08a7f2a1544a48d391cd91eaa5423c2d">
+   <img src="https://img.shields.io/badge/Ver_Casos_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 
  
-<!--![My Skills](https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,windows,apple)-->
+</div>
 
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
-  </a>
-</p>
+<br>
 
-<!--
-[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
--->
+<div align="center">
+   
+[![acontreras9012@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)   
+   
+</div> 
 
 ---
 
-## PROYECTOS 
+## PROYECTOS DOCUMENTADOS
 
 ### BrandHub Testing Framework - Azure
 
-- **Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
+**Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
 
 Implementación de una suite de automatización E2E para una plataforma de branding con IA generativa, integrada a Azure DevOps para validaciones Build Validation Testing (BVT), regresión y validaciones post-deployment.
 
