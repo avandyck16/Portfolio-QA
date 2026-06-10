@@ -376,7 +376,7 @@ validaciones tempranas y demostraciones para stakeholders en inglés y español.
 👉 [![GitHub](https://img.shields.io/badge/Ver_todos_los_casos_en_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avandyck16?tab=repositories)
 
 
-👉 [![Notion](https://img.shields.io/badge/Ver_todos_los_casos_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31)
+👉 [![Notion](https://img.shields.io/badge/Ver_todos_los_casos_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://qa-warrior.notion.site/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31)
 
 <sub>────────────────────────────────────────────────────────</sub>
 
