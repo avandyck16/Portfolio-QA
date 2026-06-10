@@ -1,4 +1,8 @@
-<!--## **QA Engineer | Test Automation & Manual Testing | Cypress | JS | E2E**  EN EL YAML-->
+ℹ️Este portafolio reúne proyectos profesionales, académicos y personales completamente documentados.
+
+→ *Cada uno incluye repositorio, case study, desafíos técnicos, soluciones implementadas, métricas, snippets de código y evidencia visual de resultados.*
+
+---
 
 ### **Acerca de mí**
 
@@ -6,14 +10,9 @@
 
 ● Estas estrategias incluyen **shift-left testing, SIT, UAT, BVT, Smoke, Regression, Exploratory, Git Workflow, Organización de Specs, entornos, commands, scripts, front-end selectors, YAML pipeline configuration, debugging**.
 
-● Este portafolio reúne proyectos profesionales, académicos y personales completamente documentados.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;→ Cada uno incluye repositorio, case study, desafíos técnicos, soluciones implementadas, métricas, snippets de código y evidencia visual de resultados.
-
 ---
 
 ### ➡️ Stack Actual
-
-Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines for CI/CD · Python · Selenium WebDriver · CLI · Postman · Web · Mobile
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +23,9 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines for CI/CD · Py
 
 ### ➡️ Experiencia Profesional Última / Actual
 
+<p align="center">
 Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
+</p>
 
 --- 
 
@@ -51,14 +52,11 @@ Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
    <img src="https://img.shields.io/badge/Ver_Casos_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
- 
 </div>
-
 <br>
-
 <div align="center">
    
-[![acontreras9012@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)   
+[![acontreras9012@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com)&nbsp;[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)   
    
 </div> 
 
