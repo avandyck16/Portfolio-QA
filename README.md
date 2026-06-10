@@ -24,7 +24,7 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
   <a href="https://github.com/avandyck16" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31" target="_blank">
+  <a href="https://qa-warrior.notion.site/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31" target="_blank">
     <img src="https://img.shields.io/badge/Projects_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
   </a>
   <a href="mailto:acontreras9012@gmail.com" target="_blank">
@@ -372,13 +372,11 @@ validaciones tempranas y demostraciones para stakeholders en inglés y español.
 
 
 
-Link a todos mis proyectos en GitHub:
 
-👉 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avandyck16?tab=repositories)
+👉 [![GitHub](https://img.shields.io/badge/Ver_todos_los_casos_en_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avandyck16?tab=repositories)
 
-Link a todos mis proyectos en Notion UI:
 
-👉 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31)
+👉 [![Notion](https://img.shields.io/badge/Ver_todos_los_casos_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31)
 
 <sub>────────────────────────────────────────────────────────</sub>
 
