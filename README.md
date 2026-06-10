@@ -6,7 +6,7 @@
 
 QA Engineer con experiencia en testing automatizado y manual, enfocado en calidad y entendimiento del producto, colaboración
 temprana en el SDLC y automatización de pruebas con Cypress y JavaScript. Experiencia en diseño, planificación y ejecución de
-pruebas E2E, SIT y UAT, Post deployment Testing (BVT), debugging, documentación técnica y trabajo
+pruebas. Testing E2E, SIT, UAT, Pre & Post deployment Testing (BVT), debugging, documentación técnica y trabajo
 colaborativo con equipos de desarrollo, producto y stakeholders.
 
 Perfil analítico con alta capacidad de autogestión, enfocado en la participación temprana del SDLC para asegurar estabilidad y confiabilidad del producto. 
@@ -18,7 +18,7 @@ Como docente profesional en años anteriores, aprendí y trabajé junto a uno de
 
 
 <div align="center">
-  <a href="https://avandyck16.github.io/Portfolio-QA/assets/img/Axel%20Van%20Dyck%20QA%20Engineer.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://avandyck16.github.io/Portfolio-QA/assets/Axel%20Van%20Dyck%20QA%20Engineer.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ver-CV_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
 </a>
   <a href="https://github.com/avandyck16" target="_blank">
