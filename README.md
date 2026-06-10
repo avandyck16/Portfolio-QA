@@ -51,7 +51,7 @@ Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
 </a>
 <br>
      
-[![acontreras9012@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com)&nbsp;[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)   
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)   
      
 </div>
 
