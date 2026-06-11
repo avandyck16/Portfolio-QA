@@ -82,10 +82,15 @@ Implementación de una suite de automatización E2E para una plataforma impulsad
 - **Aspectos destacados:**
 
 • 33 escenarios automatizados.
+
 • 10 desafíos técnicos solucionados.
+
 • Reducción del tiempo de validación de ~50 min a ~9 min (~82%).
+
 • Optimización de ejecución mediante comandos reutilizables.
+
 • Estandarización de scripts para ejecución local, desarrollo, reporting y pruebas cross-browser.
+
 • Generación automática de reportes HTML y JSON.
 
 
@@ -112,10 +117,17 @@ Implementación de una suite de automatización E2E para una plataforma de brand
 - **Aspectos destacados:**
 
 * 36 escenarios automatizados.
-* Compatibilidad con 3 entornos de ejecución.
+
 * Reducción del tiempo de validación de ~45 min a ~5 min.
+
+* 7 Desafíos técnicos solucionados.
+
+* Compatibilidad con 3 entornos de ejecución.
+
 * Generación automática de reportes y artifacts.
+
 * Resolución de desafíos relacionados con cold starts, flaky tests, flujos dinámicos y CI/CD.
+
   <img width="450" height="180" alt="image" src="https://github.com/user-attachments/assets/3a1bbb58-a139-4786-81f3-a7a320fcac94" />
   <img width="450" height="180" alt="image" src="https://github.com/user-attachments/assets/a199ff53-41d4-4f06-9917-302ce5d83323" />
 
