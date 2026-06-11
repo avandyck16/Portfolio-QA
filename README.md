@@ -73,6 +73,36 @@ Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
 
 ## PROYECTOS DOCUMENTADOS
 
+### SprintLine E2E Automation Framework
+
+**Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
+
+Implementación de una suite de automatización E2E para una plataforma impulsada por IA orientada a la generación de documentación técnica, integrada al proceso de Build Validation Testing (BVT) para validar funcionalidades críticas antes del deployment.
+
+- **Aspectos destacados:**
+
+• 33 escenarios automatizados.
+• 10 desafíos técnicos solucionados.
+• Reducción del tiempo de validación de ~50 min a ~9 min (~82%).
+• Optimización de ejecución mediante comandos reutilizables.
+• Estandarización de scripts para ejecución local, desarrollo, reporting y pruebas cross-browser.
+• Generación automática de reportes HTML y JSON.
+
+
+
+ 👇 **LINKS**
+
+<a href="https://github.com/avandyck16/Sprintline-Automated-Testing-JS-Cypress"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> 
+  <br>
+<a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37c57b95081080568907e2df4c26e39f">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
+
+  
+────────────────────────────────────────────────────────
+
 ### BrandHub Testing Framework - Azure
 
 **Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
