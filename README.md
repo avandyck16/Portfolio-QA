@@ -246,13 +246,12 @@ Validación funcional de la aplicación móvil Urban.Lunch enfocada en el compor
   
 <sub>────────────────────────────────────────────────────────</sub>
 
-# Automatización de Pruebas API – Urban Grocers
+### Automatización de Pruebas API – Urban Grocers
 
 **Stack:** Python · Pytest · Requests · Git Bash · GitHub (SSH)
 
 Implementación de un framework de automatización de pruebas API para la validación funcional de la API de Urban Grocers, enfocada en la creación de usuarios y kits de productos con escenarios positivos y negativos.
 
----
 
 ## 📌 Aspectos destacados
 
@@ -278,13 +277,13 @@ Implementación de un framework de automatización de pruebas API para la valida
   
 <sub>────────────────────────────────────────────────────────</sub>
 
-# Urban Routes – UI & Functional Testing
+### Urban Routes – UI & Functional Testing
 
 **Stack:** Manual Testing · UI Testing · Test Design · Cross-Browser Validation · Figma Interpretation
 
 Proyecto enfocado en la validación del módulo de reserva de automóviles en Urban Routes, con énfasis en el flujo de “Compartir un automóvil”, cubriendo diseño UI, formularios interactivos y lógica funcional del sistema.
 
----
+
 
 ## 📌 Aspectos destacados
 
@@ -310,13 +309,11 @@ Proyecto enfocado en la validación del módulo de reserva de automóviles en Ur
     
 <sub>────────────────────────────────────────────────────────</sub>
 
-# Urban Routes – E2E Taxi Booking Automation (Sprint 8)
+### Urban Routes – E2E Taxi Booking Automation 
 
 **Stack:** Python · Selenium WebDriver · Pytest · Page Object Model (POM)
 
 Proyecto de automatización E2E enfocado en validar el flujo completo de solicitud de taxi en Urban Routes, cubriendo desde la configuración de la ruta hasta la asignación del conductor y validaciones finales del viaje.
-
----
 
 ## 📌 Aspectos destacados
 
