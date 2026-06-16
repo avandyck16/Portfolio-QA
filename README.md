@@ -79,7 +79,7 @@ Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
 
 Implementación de una suite de automatización E2E para una plataforma impulsada por IA orientada a la generación de documentación técnica, integrada al proceso de Build Validation Testing (BVT) para validar funcionalidades críticas antes del deployment.
 
-- **Aspectos destacados:**
+📌 **Aspectos destacados:**
 
 • 33 escenarios automatizados.
 
@@ -114,7 +114,7 @@ Implementación de una suite de automatización E2E para una plataforma impulsad
 
 Implementación de una suite de automatización E2E para una plataforma de branding con IA generativa, integrada a Azure DevOps para validaciones Build Validation Testing (BVT), regresión y validaciones post-deployment.
 
-- **Aspectos destacados:**
+📌 **Aspectos destacados:**
 
 * 36 escenarios automatizados.
 
@@ -126,7 +126,7 @@ Implementación de una suite de automatización E2E para una plataforma de brand
 
 * Generación automática de reportes y artifacts.
 
-* Resolución de desafíos relacionados con cold starts, flaky tests, flujos dinámicos y CI/CD.
+* Resolución de desafíos de estabilidad E2E: cold starts, flaky tests, flujos dinámicos y CI/CD.
 
   <img width="450" height="180" alt="image" src="https://github.com/user-attachments/assets/3a1bbb58-a139-4786-81f3-a7a320fcac94" />
   <img width="450" height="180" alt="image" src="https://github.com/user-attachments/assets/a199ff53-41d4-4f06-9917-302ce5d83323" />
@@ -154,7 +154,7 @@ Implementación de una suite de automatización E2E para una plataforma de brand
 Diseñé e implementé directivas técnicas para la ejecución de pruebas automatizadas en Azure DevOps; reporting
 automatizado, manejo de variables de entorno, adaptación de pipelines y estrategias de ejecución multi-browser.
 
-**Aspectos destacados:**
+📌 **Aspectos destacados:**
 
 * Configuración de variables de entorno para ejecución automatizada en pipelines.
 * Integración de Cypress dentro de arquitecturas Build → Test → Deploy.
@@ -185,23 +185,151 @@ automatizado, manejo de variables de entorno, adaptación de pipelines y estrate
 
 
 
-### Urban Routes – End-to-End Taxi Booking Automation
+### Urban Scooter — End-to-End Quality Validation 
+
+**Stack:** • Manual Testing · API Testing · Database Validation · Jira · Test Design Techniques
+
+Validación integral del sistema Urban Scooter mediante pruebas en múltiples capas (Front-end, API y Base de Datos), enfocada en asegurar la consistencia del flujo de pedidos y la integridad de los datos end-to-end.
+
+📌 **Aspectos destacados:**
+
+* Validación del flujo completo de creación de pedidos en Front-end con escenarios positivos y negativos.  
+* Aplicación de técnicas de diseño de pruebas: clases de equivalencia y análisis de valores límite.  
+* Validación de endpoints API para creación de repartidores con manejo de errores y códigos HTTP.  
+* Verificación de consistencia de datos entre API y Base de Datos.  
+* Aseguramiento de integridad de datos tras operaciones CRUD.  
+* Validación de flujo end-to-end entre Front-end, API y Base de Datos.  
+* Resolución de desafíos de sincronización de datos entre múltiples capas del sistema.
+
+<img width="403" height="301" alt="image" src="https://github.com/user-attachments/assets/abb15c8d-8f54-4181-90bc-a61fba90a847" />
+
+
+
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/Urban-Scooter-End-to-End-Quality-Validation---Sprint-9"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> 
+  <br>
+<a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b9508108001b64cfc5ae448076a">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
+  
+<sub>────────────────────────────────────────────────────────</sub>
+
+### Urban.Lunch — Mobile Apps Testing
+
+**Stack:** • Android Testing · Android Studio · Jira · Figma · Log Analysis
+
+Validación funcional de la aplicación móvil Urban.Lunch enfocada en el comportamiento del sistema ante distintos escenarios de uso, incluyendo flujos de pedido, manejo de errores y notificaciones del sistema.
+
+📌 **Aspectos destacados:**
+
+* Validación de flujos de selección de punto de recogida, pedidos y seguimiento de entrega.  
+* Ejecución de pruebas funcionales en dispositivo Android físico.  
+* Identificación y documentación de defectos en manejo de geolocalización.  
+* Validación de mensajes de error bajo distintos escenarios de usuario.  
+* Análisis de inconsistencias entre requisitos, diseño (Figma) y comportamiento real.  
+* Recolección y análisis de logs para soporte de incidencias.  
+* Documentación de hallazgos y evidencias en Jira.
+
+
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/Urban.Lunch---Mobile-Apps-Testing-sprint-5"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> 
+  <br>
+<a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b950810809394f1d150979c9206">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
+  
+<sub>────────────────────────────────────────────────────────</sub>
+
+# Automatización de Pruebas API – Urban Grocers
+
+**Stack:** Python · Pytest · Requests · Git Bash · GitHub (SSH)
+
+Implementación de un framework de automatización de pruebas API para la validación funcional de la API de Urban Grocers, enfocada en la creación de usuarios y kits de productos con escenarios positivos y negativos.
+
+---
+
+## 📌 Aspectos destacados
+
+* Implementación de framework modular para pruebas API.
+* Separación de configuración, datos y lógica de testing.
+* Validación de respuestas exitosas (200 / 201) y manejo de errores (400).
+* Parametrización de datos de prueba para distintos escenarios.
+* Cobertura de pruebas positivas y negativas.
+* Uso de Pytest para estructuración y ejecución de casos de prueba.
+* Eliminación de hard-coding mediante reutilización de datos centralizados.
+* Manejo de autenticación y flujo de requests vía Git + SSH.
+
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/Sprint-7-Python-Aut-Tests-TripleTenQA"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> 
+  <br>
+<a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b9508108072b56ec17a82659834">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
+  
+  
+<sub>────────────────────────────────────────────────────────</sub>
+
+# Urban Routes – UI & Functional Testing
+
+**Stack:** Manual Testing · UI Testing · Test Design · Cross-Browser Validation · Figma Interpretation
+
+Proyecto enfocado en la validación del módulo de reserva de automóviles en Urban Routes, con énfasis en el flujo de “Compartir un automóvil”, cubriendo diseño UI, formularios interactivos y lógica funcional del sistema.
+
+---
+
+## 📌 Aspectos destacados
+
+* Validación de interfaz basada en diseños Figma/PDF.
+* Diseño de listas de comprobación para UI y funcionalidad.
+* Creación de casos de prueba positivos y negativos.
+* Evaluación de formularios y componentes dinámicos.
+* Validación de métodos de pago y flujo de “Agregar tarjeta”.
+* Pruebas de compatibilidad entre navegadores y resoluciones.
+* Detección de inconsistencias entre diseño y comportamiento real.
+* Ejecución de pruebas en entornos Chrome y Firefox.
+
+
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/Urban.Routes-Pruebas-Diseno-Funcionalidad-TripleTen"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> 
+  <br>
+<a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b9508108037bd28d617663e95ae">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a> 
+    
+<sub>────────────────────────────────────────────────────────</sub>
+
+# Urban Routes – E2E Taxi Booking Automation (Sprint 8)
 
 **Stack:** Python · Selenium WebDriver · Pytest · Page Object Model (POM)
 
-Proyecto de automatización E2E enfocado en validar el flujo completo de solicitud de transporte dentro de la plataforma Urban Routes, cubriendo desde la configuración del viaje hasta la asignación del conductor.
+Proyecto de automatización E2E enfocado en validar el flujo completo de solicitud de taxi en Urban Routes, cubriendo desde la configuración de la ruta hasta la asignación del conductor y validaciones finales del viaje.
 
-**Aspectos destacados:**
+---
 
-* Automatización completa del proceso de reserva de un taxi.
-* Implementación de arquitectura Page Object Model (POM).
-* Validación de rutas, tarifas, métodos de pago y preferencias de viaje.
-* Intercepción y validación automática de códigos de confirmación SMS.
-* Verificación de ventanas modales, información del conductor y estados de la aplicación.
-* Organización del framework mediante capas de datos, localizadores y métodos reutilizables.
-* Cobertura de 14 escenarios automatizados de extremo a extremo.
+## 📌 Aspectos destacados
 
-  <img width="242" height="132" alt="image" src="https://github.com/user-attachments/assets/fcb36aa0-ce06-4f4f-986d-eb7f75beb1ca" />
+* Automatización del flujo completo de pedido de taxi end-to-end.
+* Implementación de Selenium WebDriver.
+* Uso de Page Object Model.
+* Validación de rutas, tarifas, métodos de pago y comentarios del usuario.
+* Intercepción de código de confirmación SMS.
+* Validación de modales, estados de la aplicación e información del conductor.
+* Manejo de elementos dinámicos con WebDriverWait.
+* Cobertura de 14 escenarios automatizados E2E.
+
+
 
 
 👇 **LINKS**
@@ -210,124 +338,7 @@ Proyecto de automatización E2E enfocado en validar el flujo completo de solicit
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
   <br>
-<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b95081080d58489db14a3ded7f7">
-    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
-    </a> 
-  
-<sub>────────────────────────────────────────────────────────</sub>
-
-
-### Urban Scooter – QA Testing Project
-
-**Stack:** Jira · Postman · SQL · API Testing · Mobile Testing · Web Testing
-
-Proyecto enfocado en pruebas funcionales para una plataforma de movilidad urbana, cubriendo validaciones web, móvil, API y base de datos.
-
-**Aspectos destacados:**
-
-* Diseño y ejecución de casos de prueba funcionales.
-* Aplicación de clases de equivalencia y valores límite.
-* Validación de formularios y flujos de pedido.
-* Verificación de notificaciones y estados de conectividad.
-* Pruebas de API mediante validación de requests, responses y códigos HTTP.
-* Validación de datos en base de datos mediante consultas SQL.
-* Documentación y seguimiento de defectos en Jira.
-
-👇 **LINKS**
-
-<a href="https://github.com/avandyck16/Urban-Scooter-Sprint-9-Final-TripleTen"> 
-    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a> 
-  <br>
-<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b95081080258a66f0a377f82443">
-    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
-    </a> 
-  
-<sub>────────────────────────────────────────────────────────</sub>
-
-### Social Media Web Testing – Selenium & Page Object Model
-
-**Stack:** Python · Selenium WebDriver · Page Object Model (POM)
-
-Proyecto orientado al aprendizaje de automatización web utilizando Selenium y Python sobre una aplicación tipo red social. Implementación de una arquitectura basada en Page Object Model para organizar acciones, localizadores e interacciones con la interfaz.
-
-**Aspectos destacados:**
-
-* Automatización de flujos de autenticación y gestión de usuarios.
-* Interacción con elementos dinámicos de la interfaz web.
-* Implementación de Page Object Model para mejorar la mantenibilidad del código.
-* Uso de localizadores y esperas explícitas (WebDriverWait).
-* Organización modular del proyecto mediante múltiples páginas y componentes.
-* Validación de elementos, navegación y operaciones sobre publicaciones.
-
-👇 **LINKS**
-
-<a href="https://github.com/avandyck16/Python-Selenium-Auto-Tasks"> 
-    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a> 
-  <br>
-<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b950810800e92f5d1d811af2514">
-    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
-    </a> 
-  
-  
-<sub>────────────────────────────────────────────────────────</sub>
-
-
-### Web Automation Framework – Selenium & Page Object Model
-
-**Stack:** Python · Selenium WebDriver · Page Object Model (POM)
-
-Proyecto de automatización web enfocado en la implementación de Page Object Model utilizando Python y Selenium. El objetivo fue estructurar pruebas automatizadas mediante clases, métodos reutilizables y separación de responsabilidades para mejorar la mantenibilidad y escalabilidad del código.
-
-**Aspectos destacados:**
-
-* Implementación de Page Object Model (POM) basado en clases y métodos reutilizables.
-* Automatización de flujos de registro, autenticación y gestión de contenido.
-* Uso de localizadores, atributos de objetos y encapsulamiento de acciones.
-* Aplicación de esperas explícitas (WebDriverWait) para mejorar la estabilidad de las pruebas.
-* Organización modular mediante páginas, componentes y clases de prueba.
-* Gestión automatizada del ciclo de vida de las pruebas con setup y teardown.
-
-👇 **LINKS**
-
-<a href="https://github.com/avandyck16/POM-y-Localizadores-Python-Selenium"> 
-    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a> 
-  <br>
-<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b9508108041af57cdcff95b6ec7">
-    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
-    </a> 
-    
-<sub>────────────────────────────────────────────────────────</sub>
-
-
-## Urban Lunch – API Testing & Test Design
-
-**Stack:** API Testing · Test Design Techniques · Requirements Validation
-
-Proyecto enfocado en el diseño y ejecución de pruebas para servicios API relacionados con la gestión de pedidos y cálculo de costos de envío dentro de la plataforma Urban Lunch.
-
-**Aspectos destacados:**
-
-* Diseño de casos de prueba basados en requisitos funcionales.
-* Validación de endpoints API y manejo de respuestas HTTP.
-* Aplicación de partición de equivalencias para optimizar cobertura de pruebas.
-* Construcción de tablas de decisión para validar reglas de negocio.
-* Implementación de pruebas por pares (Pairwise Testing) para reducir combinaciones redundantes.
-* Evaluación de lógica de cálculo de costos y disponibilidad de envío.
-* Elaboración de reportes de pruebas, hallazgos y recomendaciones.
-
-<img width="242" height="132" alt="image" src="https://github.com/user-attachments/assets/d0797745-d4ee-4596-a7b4-e5b05253c550" />
-
-
-👇 **LINKS**
-
-<a href="https://github.com/avandyck16/Sprint-4-TripleTen-QA"> 
-    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a> 
-  <br>
-<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b9508108040a837e475f54cb7f7">
+<a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b95081080d8a6a2cc0ed1ca4083">
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
     </a> 
   
