@@ -451,6 +451,8 @@ validaciones tempranas y demostraciones para stakeholders en inglés y español.
 ![Badges](/assets/img/logos.png)
 
 ![Certificado](/assets/img/2certificate.png)
+<img width="436" height="345" alt="image" src="https://github.com/user-attachments/assets/73e7e664-491a-488c-b83e-8266f18f4e50" />
+
 
 
 
