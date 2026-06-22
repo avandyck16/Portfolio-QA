@@ -15,9 +15,14 @@
 ### ➡️ Stack Actual
 
 <p align="center">
+      <img src="https://skills.syvixor.com/api/icons?perline=8&i=azure,cypress,playwright,k6,jest,visualstudiocode,javascript,typescript,powershell,postman,markdown,chatgpt,windows,apple,android" />
+  </p>
+
+<!--
+<p align="center">
   <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
 </p>
-
+-->
 
 ### ➡️ Experiencia Profesional Última / Actual
 
