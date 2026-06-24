@@ -396,26 +396,28 @@ Toolkit de administración y mantenimiento para Windows desarrollado como proyec
 
 ### EXPERIENCIA PROFESIONAL ACTUAL
 
-#### QA Engineer (Automation & Manual Testing) | ALSET Inc. | 2024 – Presente
+#### QA Engineer (Automation & Manual Testing) | ALSET Inc. | 11/2024 – Presente
 
-• Responsable de QA en múltiples proyectos SaaS, web y móviles (iOS & Android), impulsando la cobertura SIT & UAT,
-seguimiento de defectos y estabilidad del producto con alto nivel de ownership y autonomía.
+• Lidero actividades de QA en múltiples proyectos SaaS, web y mobile (iOS/Android), incluyendo diseño y ejecución de
+estrategias de testing, cobertura SIT y UAT, seguimiento de defectos, mantenimiento de test cases y documentación
+funcional.
 
-• Desarrollo y mantengo pruebas E2E con JavaScript y Cypress para aplicaciones web, integrando validaciones dentro de
-procesos de CI/CD antes y después del despliegue para mejorar la cobertura y confiabilidad de las entregas.
+• Desarrollo y mantengo pruebas E2E con JavaScript y Cypress para aplicaciones web, integradas a pipelines CI/CD para
+validación en fases pre y post despliegue, aumentando la cobertura de regresión y confiabilidad de releases, así como
+reduciendo el tiempo de ejecución y análisis de errores.
 
-• Implementé estrategias para estabilización de pruebas como optimización de selectores, manejo de flaky tests, mitigación
-de cold starts en backend, mejorando la confiabilidad de la automatización y reduciendo falsos positivos.
+• Implemento estrategias para estabilización de pruebas y manejo de flaky tests, incluyendo optimización de selectores y
+mitigación de cold starts en backend, reforzando notablemente la confiabilidad de las suites y reduciendo falsos positivos.
 
-• Participé en la implementación y evolución de frameworks de automatización, organizando suites, ajustando specs y
-mejorando la eficiencia de ejecución para smoke testing, regression testing y Build Validation Testing (BVT), en conjunto
-con workflows de GitHub.
+• Participo activamente en la evolución de frameworks de automatización, organizando suites y optimizando specs dentro
+de workflows de GitHub, lo que incrementa la eficiencia en la ejecución de pruebas de humo, regresión y Build Validation
+Testing.
 
-• Integré generación automática de reportes HTML dentro de procesos de validación en pipelines, facilitando la visibilidad de
-resultados, el análisis de fallos durante el ciclo de entrega, y el contenido visual y funcional de las suites.
+• Implemento la integración de reportes HTML automáticos en pipelines CI/CD, facilitando la trazabilidad de resultados, la
+observabilidad del proceso de testing y acelerando el análisis de fallos durante el ciclo de entrega.
 
-• Colaboro activamente con equipos de desarrollo y producto dentro del SDLC, participando en revisiones funcionales,
-validaciones tempranas y demostraciones para stakeholders en inglés y español.
+• Participo activamente dentro del SDLC con el equipo de desarrollo y producto, realizando revisiones funcionales y de reglas
+de negocio, así como demostraciones de producto a stakeholders en inglés y español.
 
 
 ---
