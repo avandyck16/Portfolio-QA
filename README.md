@@ -156,18 +156,27 @@ Implementación de una suite de automatización E2E para una plataforma de brand
 
 **Stack:** Cypress · Azure DevOps · YAML Pipelines · Mochawesome · CI/CD
 
-Diseñé e implementé directivas técnicas para la ejecución de pruebas automatizadas en Azure DevOps; reporting
-automatizado, manejo de variables de entorno, adaptación de pipelines y estrategias de ejecución multi-browser.
+• Adaptación de pruebas automatizadas con Cypress a CI/CD en Azure DevOps, enfocada en la primera integración de suites automatizadas dentro de pipelines de la organización, asegurando su ejecución en despliegues a entornos DEV y PROD y validando el flujo BUILD → TEST → DEPLOY mediante la definición de estándares de configuración YAML para una integración estable y confiable.
 
-📌 **Aspectos destacados:**
+📌 Objetivo
 
-* Configuración de variables de entorno para ejecución automatizada en pipelines.
-* Integración de Cypress dentro de arquitecturas Build → Test → Deploy.
-* Implementación de reporting automático con Mochawesome.
-* Publicación de reportes HTML, JSON y screenshots como artifacts.
-* Estrategias para continuidad del pipeline ante fallos de pruebas.
-* Diseño de ejecución multi-browser mediante matrices de Azure DevOps.
-* Documentación técnica para facilitar adopción y mantenimiento del framework.
+Estandarizar la ejecución de pruebas automatizadas dentro de la arquitectura de pipelines existente, facilitando la configuración de entornos, la generación de evidencia de ejecución y la incorporación de nuevas suites de prueba bajo un modelo de integración reutilizable y escalable.
+
+📌 Logros y Resultados
+
+- Detecté que los pipelines YAML ya existían, pero estaban configurados de forma inestable.
+- Adapté suites automatizadas con Cypress para integrarse correctamente al flujo existente.
+- Validé la ejecución de pruebas automatizadas en entornos DEV y PROD.
+- Contribuí a establecer las bases para la integración repetible de suites de Cypress en Azure DevOps Pipelines.
+
+• Tecnologías Utilizadas
+
+- Azure DevOps
+- YAML Pipelines
+- Cypress
+- Mochawesome
+- Azure Artifacts
+- Git / GitHub Workflow
 
 <img width="250" height="210" alt="image" src="https://github.com/user-attachments/assets/7cd819c3-a244-47a2-b591-b50d8498ae1f" />
 <img width="250" height="210" alt="image" src="https://github.com/user-attachments/assets/b9ec5e6a-a022-4f73-816d-073f93384373" />
