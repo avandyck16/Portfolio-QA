@@ -8,7 +8,7 @@
 
 ● QA Engineer con bases sólidas y experiencia en estrategias de testing automatizado y manual, con inglés C1 fluido.
 
-● Estas estrategias incluyen **shift-left testing, SIT, UAT, BVT, Smoke, Regression, Exploratory, Git Workflow, Organización de Specs, entornos, commands, scripts, front-end selectors, YAML pipeline configuration, debugging**.
+● Estas estrategias incluyen **Shift-Left Testing, E2E, SIT, UAT, BVT, smoke, regresión, performance, load, stress, APIs, Git Workflow, Organización de Specs, entornos, commands, scripts, front-end selectors, YAML pipeline configuration, debugging**.
 
 ---
 
@@ -118,7 +118,7 @@ Suite de automatización E2E para Sprintline; una plataforma impulsada por IA pa
 
 **Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
 
-Automatización E2E para Brandhub; una plataforma de branding impulsada por IA con GPT +5, integrada a Azure DevOps para BVT, regresión y validaciones post-deployment.
+Automatización E2E para Brandhub; una plataforma de branding impulsada por IA con GPT-5, integrada a Azure DevOps para BVT, regresión y validaciones post-deployment.
 
 
 📌 **Aspectos destacados:**
