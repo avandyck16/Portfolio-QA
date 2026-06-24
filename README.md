@@ -82,15 +82,16 @@ Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
 
 **Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
 
-Implementación de una suite de automatización E2E para una plataforma impulsada por IA orientada a la generación de documentación técnica, integrada al proceso de Build Validation Testing (BVT) para validar funcionalidades críticas antes del deployment.
+Suite de automatización E2E para Sprintline; una plataforma impulsada por IA para generación de documentación técnica, integrada al proceso de Build Validation Testing (BVT) para validar funcionalidades críticas antes del deployment.
+
 
 📌 **Aspectos destacados:**
 
-• 33 escenarios automatizados.
+• **33** escenarios automatizados.
 
-• 10 desafíos técnicos solucionados.
+• **10** desafíos técnicos solucionados.
 
-• Reducción del tiempo de validación de ~50 min a ~9 min (~82%).
+• Reducción del tiempo de validación de** ~50 min a ~9 min (~82%).**
 
 • Optimización de ejecución mediante comandos reutilizables.
 
@@ -117,15 +118,16 @@ Implementación de una suite de automatización E2E para una plataforma impulsad
 
 **Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
 
-Implementación de una suite de automatización E2E para una plataforma de branding con IA generativa, integrada a Azure DevOps para validaciones Build Validation Testing (BVT), regresión y validaciones post-deployment.
+Automatización E2E para Brandhub; una plataforma de branding impulsada por IA con GPT +5, integrada a Azure DevOps para BVT, regresión y validaciones post-deployment.
+
 
 📌 **Aspectos destacados:**
 
-* 36 escenarios automatizados.
+* **36** escenarios automatizados.
 
-* Reducción del tiempo de validación de ~45 min a ~5 min.
+* Reducción del tiempo de validación de **~45 min a ~5 min.**
 
-* 7 Desafíos técnicos solucionados.
+* **7** Desafíos técnicos solucionados.
 
 * Compatibilidad con 3 entornos de ejecución.
 
