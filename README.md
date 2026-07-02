@@ -1,6 +1,6 @@
 ℹ️Este portafolio reúne proyectos profesionales, académicos y personales completamente documentados.
 
-→ _Cada uno incluye repositorio, problemas reales de automatización, case study, desafíos técnicos, soluciones implementadas, métricas, snippets de código y evidencia visual de resultados._
+ℹ️ _Cada uno incluye repositorio, problemas reales de automatización, case study, desafíos técnicos, soluciones implementadas, métricas, snippets de código y evidencia visual de resultados._
 
 ---
 
