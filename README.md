@@ -4,6 +4,7 @@
 
 ---
 
+
 ### **Acerca de mí**
 
 ● QA Engineer con bases sólidas y experiencia en estrategias de testing automatizado y manual, con inglés C1 fluido.
