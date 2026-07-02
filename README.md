@@ -27,7 +27,7 @@
 ### ➡️ Experiencia Profesional Última / Actual
 
 <p align="center">
-Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
+Alset, Inc. →  QA Engineer Manual & Automated E2E Testing
 </p>
 
 ---
