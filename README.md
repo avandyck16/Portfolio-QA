@@ -84,7 +84,7 @@ Suite de automatización E2E para Sprintline; una plataforma impulsada por IA pa
 
 • **10** desafíos técnicos solucionados.
 
-• Reducción del tiempo de validación de** ~50 min a ~9 min (~82%).**
+• Reducción del tiempo de validación de **~50 min a ~9 min (~82%).**
 
 • Optimización de ejecución mediante comandos reutilizables.
 
@@ -104,7 +104,7 @@ Suite de automatización E2E para Sprintline; una plataforma impulsada por IA pa
 
 ────────────────────────────────────────────────────────
 
-### BrandHub Testing Framework - Azure
+### BrandHub E2E Testing Framework - Azure
 
 **Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
 
@@ -139,28 +139,29 @@ Automatización E2E para Brandhub; una plataforma de branding impulsada por IA c
 
 ────────────────────────────────────────────────────────
 
-### Directivas de Infraestructura Inicial para Automatización
+### Framework de Automatización e Integración CI/CD
 
 **Stack:** Cypress · Azure DevOps · YAML Pipelines · Mochawesome · CI/CD
 
-• Adaptación de pruebas automatizadas con Cypress a CI/CD en Azure DevOps, enfocada en la primera integración de suites automatizadas dentro de pipelines de la organización, asegurando su ejecución en despliegues a entornos DEV y PROD y validando el flujo BUILD → TEST → DEPLOY mediante la definición de estándares de configuración YAML para una integración estable y confiable.
+• Implementación del framework base de automatización con Cypress e integración dentro de pipelines CI/CD en Azure DevOps, definiendo la estructura de suites, configuración YAML, ejecución automatizada y generación de evidencia mediante reportes HTML/JSON. La solución permitió incorporar validaciones automatizadas dentro del flujo BUILD → TEST → DEPLOY hacia ambientes DEV y PROD.
 
 📌 Objetivo
 
-Estandarizar la ejecución de pruebas automatizadas dentro de la arquitectura de pipelines existente, facilitando la configuración de entornos, la generación de evidencia de ejecución y la incorporación de nuevas suites de prueba bajo un modelo de integración reutilizable y escalable.
+Establecer una base reutilizable de automatización dentro de la arquitectura de pipelines existente, facilitando la incorporación de nuevas suites, manejo de configuración externa, generación de evidencia y escalabilidad futura del proceso de testing.
 
 📌 Logros y Resultados
 
-- Detecté que los pipelines YAML ya existían, pero estaban configurados de forma inestable.
-- Adapté suites automatizadas con Cypress para integrarse correctamente al flujo existente.
-- Validé la ejecución de pruebas automatizadas en entornos DEV y PROD.
-- Contribuí a establecer las bases para la integración repetible de suites de Cypress en Azure DevOps Pipelines.
+- Implementé la estructura inicial del framework Cypress para aplicaciones web.
+- Integré la ejecución automatizada dentro de Azure DevOps mediante configuración YAML.
+- Implementé generación automática de reportes y publicación de artifacts.
+- Establecí una base reutilizable para futuras estrategias de automatización.
 
 • Tecnologías Utilizadas
 
 - Azure DevOps
 - YAML Pipelines
 - Cypress
+- JavaScript
 - Mochawesome
 - Azure Artifacts
 - Git / GitHub Workflow
@@ -171,11 +172,11 @@ Estandarizar la ejecución de pruebas automatizadas dentro de la arquitectura de
 
 👇 **LINKS**
 
-<a href="https://github.com/avandyck16/Automation-Pipeline-Infrastructure-Guidelines"> 
+<a href="https://github.com/avandyck16/Automation-Framework-CICD-Integration"> 
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> 
   <br>
-<a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b95081080c0b407c7fd2f9cf7f6">
+<a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b950810803ebfe5fc914b1da74c">
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
     </a>
 
