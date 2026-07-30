@@ -72,6 +72,40 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 
 ## PROYECTOS DOCUMENTADOS
 
+### 3PLicity E2E Automation Framework
+
+**Stack:** • Cypress · JavaScript · Mochawesome · Stripe Integration Testing · CI/CD
+
+Suite de automatización E2E para una plataforma SaaS de logística y gestión de operaciones 3PL, enfocada en validar flujos críticos B2B como compañías, merchants, órdenes de compra, órdenes de venta e inventario.
+
+📌 **Aspectos destacados:**
+
+• Automatización de flujos críticos multi-rol: Company, Merchant, Purchase Order, Sales Order e Inventory.
+
+• Reducción del tiempo de validación manual de **~1.15 h a ~2.42 min (~96%).**
+
+• Implementación de limpieza automática de datos generados durante ejecución para evitar conflictos entre pruebas.
+
+• Integración de validaciones de pago mediante manejo de iframes cross-origin de Stripe.
+
+• Manejo seguro de información sensible mediante variables temporales de ejecución.
+
+• Resolución de desafíos E2E relacionados con sincronización, elementos dinámicos y dependencias externas.
+
+• Automatización de escenarios con dispositivos externos mediante simulación de scanner de códigos de barras.
+
+👇 **LINKS**
+
+<a href="https://github.com/avandyck16/3PLicity-Supply-Chain-Platform-E2E-Automation"> 
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> 
+  <br>
+<a href="https://www.notion.so/qa-warrior/Projects-Portfolio-08a7f2a1544a48d391cd91eaa5423c2d?source=copy_link#3ad57b95081080da9505c763b72ba02f">
+    <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a>
+
+────────────────────────────────────────────────────────
+
 ### SprintLine E2E Automation Framework
 
 **Stack:** • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
