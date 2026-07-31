@@ -400,26 +400,15 @@ Toolkit de administración y mantenimiento para Windows desarrollado como proyec
 
 #### QA Engineer (Manual & Automated Testing) | ALSET Inc. | 11/2024 – Presente
 
-• Lidero actividades de QA en múltiples proyectos SaaS, web y mobile (iOS/Android), incluyendo diseño y ejecución de
-estrategias de testing, cobertura SIT y UAT, seguimiento de defectos, mantenimiento de test cases y documentación
-funcional.
+• Lidero actividades de QA en múltiples proyectos SaaS, web y mobile (iOS/Android), incluyendo la estandarización para el diseño y ejecución de estrategias de testing manual, cobertura SIT y UAT, seguimiento de defectos, mantenimiento de test cases, documentación funcional, además de validaciones funcionales y pruebas de carga/estrés para evaluar comportamiento, respuestas, métricas clave y códigos de estado de los endpoints.
 
-• Desarrollo y mantengo pruebas E2E con JavaScript y Cypress para aplicaciones web, integradas a pipelines CI/CD para
-validación en fases pre y post despliegue, aumentando la cobertura de regresión y confiabilidad de releases, así como
-reduciendo el tiempo de ejecución y análisis de errores.
+• Implementé el framework base de automatización con Cypress para aplicaciones web, definiendo la estructura de suites, comandos reutilizables, fixtures y scripts de ejecución, e integré su ejecución al proceso de CI/CD mediante la configuración del pipeline YAML de Azure DevOps con generación automática de reportes y validaciones en la fase pre despliegue.
 
-• Implemento estrategias para estabilización de pruebas y manejo de flaky tests, incluyendo optimización de selectores y
-mitigación de cold starts en backend, reforzando notablemente la confiabilidad de las suites y reduciendo falsos positivos.
+• Desarrollo y mantengo más de 65 escenarios E2E automatizados con JavaScript y Cypress para aplicaciones web, integrados a Azure pipelines para validación en fases pre y post despliegue, aumentando la cobertura de regresión y confiabilidad de releases, así como reduciendo el tiempo de ejecución y análisis de errores.
 
-• Participo activamente en la evolución de frameworks de automatización, organizando suites y optimizando specs dentro
-de workflows de GitHub, lo que incrementa la eficiencia en la ejecución de pruebas de humo, regresión y Build Validation
-Testing.
+• Diseño e implemento estrategias para la estabilización de pruebas y manejo de problemas de flakiness, incluyendo optimización de selectores, interacción confiable con iframes de terceros (e.g. Stripe) y mitigación de cold starts en backend, fortaleciendo la confiabilidad de la suite, reduciendo falsos positivos y contribuyendo a la evolución del framework.
 
-• Implemento la integración de reportes HTML automáticos en pipelines CI/CD, facilitando la trazabilidad de resultados, la
-observabilidad del proceso de testing y acelerando el análisis de fallos durante el ciclo de entrega.
-
-• Participo activamente dentro del SDLC con el equipo de desarrollo y producto, realizando revisiones funcionales y de reglas
-de negocio, así como demostraciones de producto a stakeholders en inglés y español.
+• Implemento la integración de reportes HTML automáticos en el flujo CI/CD, facilitando la trazabilidad de resultados, la observabilidad del proceso de testing y acelerando el análisis de fallos antes del despliegue a producción, además, presento resultados y demostraciones funcionales a stakeholders en inglés y español.
 
 ---
 
