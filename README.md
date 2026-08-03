@@ -60,7 +60,7 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 <details>
 <summary>
 <span style="border:1px solid #0a0a0a; padding:10px; border-radius:8px; background:#dfdfdf; color:#000000; font-weight:bold;">
-3PLicity E2E Automation Framework
+3PLICITY E2E Automation Framework; B2B Logistics SaaS
 </span>
 </summary>
 
@@ -69,25 +69,72 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 <div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 
 <p>
+<strong>Proyecto</strong>
+</p>
+
+<p>
+Automatización E2E para una plataforma SaaS de gestión logística enfocada en operaciones entre compañías 3PL y merchants.
+
+La plataforma gestiona procesos comerciales y operativos como registro de compañías, incorporación de merchants, creación de órdenes de compra, órdenes de venta, procesamiento logístico, actualizaciones de inventario y seguimiento completo del ciclo de vida de los pedidos.
+
+</p>
+
+<p>
+<strong>Objetivo</strong>
+</p>
+<p>
+Implementar una suite de automatización E2E enfocada en validar flujos críticos de negocio, reducir el esfuerzo manual de regresión y aumentar la confianza durante los ciclos de entrega.
+
+La estrategia de automatización fue diseñada para cubrir escenarios funcionales de alto valor, incluyendo flujos completos que involucran diferentes roles dentro del sistema.
+
+</p>
+
+<p>
+<strong>Solution Overview</strong>
+</p>
+<p>
+Diseñé e implementé un framework de automatización utilizando Cypress y JavaScript para validar procesos críticos dentro de la plataforma 3PLicity.
+
+La solución fue estructurada mediante suites independientes organizadas por dominio de negocio:
+
+- Company workflows
+- Merchant workflows
+- Purchase Order lifecycle
+- Sales Order lifecycle
+- Inventory validation
+
+La arquitectura permite ejecutar pruebas en distintos ambientes mediante variables de entorno, comandos personalizados reutilizables y configuración dinámica de datos de prueba.
+
+Los escenarios fueron diseñados para representar flujos reales de usuario, incluyendo interacción entre diferentes roles, validación de estados del sistema y procesos operativos completos.
+
+</p>
+
+<p>
 <strong>Stack:</strong> • Cypress · JavaScript · Mochawesome · Stripe Integration Testing · CI/CD
 </p>
 
 <p>
-Suite de automatización E2E para una plataforma SaaS de logística y gestión de operaciones 3PL, enfocada en validar flujos críticos B2B como compañías, merchants, órdenes de compra, órdenes de venta e inventario.
-</p>
-
-<p>
-<strong>📌Aspectos destacados:</strong>
+<strong>Logros y Resultados</strong>
 </p>
 
 <ul>
-<li> Automatización de flujos críticos multi-rol: Company, Merchant, Purchase Order, Sales Order e Inventory.</li>
-<li> Reducción del tiempo de validación manual de <strong>~1.15 h a ~2.42 min (~96%).</strong></li>
-<li> Implementación de limpieza automática de datos generados durante ejecución para evitar conflictos entre pruebas.</li>
-<li> Integración de validaciones de pago mediante manejo de iframes cross-origin de Stripe.</li>
-<li> Manejo seguro de información sensible mediante variables temporales de ejecución.</li>
-<li> Resolución de desafíos E2E relacionados con sincronización, elementos dinámicos y dependencias externas.</li>
+<li> Reducción del tiempo de validación de aproximadamente 1h15min manuales a 2min42seg <strong>(~96% de reducción).</strong></li>
+<li> Automatización de flujos operativos críticos de logística.</li>
+<li> Implementación de cobertura E2E para procesos completos de Company y Merchant.</li>
+<li> Automatización de la validación del ciclo completo de Purchase Orders.</li>
+<li> Automatización de la validación del ciclo completo de Sales Orders.</li>
+<li> Integración de reportes HTML para análisis de ejecuciones.</li>
 <li> Automatización de escenarios con dispositivos externos mediante simulación de scanner de códigos de barras.</li>
+<li> Implementación de manejo seguro de información sensible durante ejecuciones productivas.</li>
+<li> Resolución de desafíos técnicos relacionados con:
+    <ul>
+        <li>Integración de Stripe mediante iframes.</li>
+        <li>Manejo de datos dinámicos.</li>
+        <li>Flujos dependientes entre diferentes roles del sistema.</li>
+        <li>Simulación de escaneo mediante dispositivos HID.</li>
+        <li>Estabilidad de pruebas E2E.</li>
+    </ul>
+</li>
 </ul>
 
 <p>
@@ -101,6 +148,7 @@ Suite de automatización E2E para una plataforma SaaS de logística y gestión d
 <a href="https://www.notion.so/qa-warrior/Projects-Portfolio-08a7f2a1544a48d391cd91eaa5423c2d?source=copy_link#3ad57b95081080da9505c763b72ba02f">
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
     </a>
+
 </div>
 </details>
 <br>
@@ -113,39 +161,84 @@ Suite de automatización E2E para una plataforma SaaS de logística y gestión d
 SprintLine E2E Automation Framework
 </span>
 </summary>
+
 <br>
+
 <div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
+
 <p>
-<strong>Stack:</strong>• Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
+<strong>Proyecto</strong>
 </p>
 
 <p>
-Suite de automatización E2E para Sprintline; una plataforma impulsada por IA para generación de documentación técnica, integrada al proceso de Build Validation Testing (BVT) para validar funcionalidades críticas antes del deployment.
+Automatización E2E para una plataforma impulsada por IA enfocada en la generación de documentación técnica para equipos de producto y desarrollo.
+
+La plataforma permite transformar ideas de producto en documentación estructurada como Product Requirements Documents (PRDs), User Stories, especificaciones OpenAPI y documentos RFP mediante flujos asistidos por inteligencia artificial.
+
 </p>
 
 <p>
-<strong>📌 Aspectos destacados: </strong>
+<strong>Objetivo</strong>
+</p>
+
+<p>
+Implementar una suite de automatización E2E enfocada en validar funcionalidades críticas antes del deployment mediante procesos de Build Validation Testing (BVT).
+
+La estrategia fue diseñada para reducir el tiempo de validación manual, aumentar la confiabilidad de las entregas y cubrir flujos principales relacionados con autenticación, generación de contenido dinámico y creación de documentación.
+
+</p>
+
+<p>
+<strong>Descripción de la Solución</strong>
+</p>
+
+<p>
+Diseñé e implementé un framework de automatización utilizando Cypress y JavaScript para validar los principales flujos funcionales de SprintLine.
+
+La solución fue organizada mediante suites independientes enfocadas en diferentes niveles de validación:
+
+- Smoke Testing
+- Negative Testing
+- Regression Testing
+
+La arquitectura permite ejecutar pruebas en diferentes ambientes mediante variables de entorno, comandos personalizados reutilizables, manejo de sesiones autenticadas y configuración dinámica de datos de prueba.
+
+Los escenarios fueron diseñados para representar flujos reales de usuario, incluyendo autenticación, cuestionarios dinámicos, generación de funcionalidades mediante IA y creación de documentos RFP.
+
+</p>
+
+<p>
+<strong>Stack:</strong> Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage · Mochawesome Reporter
+</p>
+
+<p>
+<strong>Logros y Resultados</strong>
 </p>
 
 <ul>
 <li>33 escenarios automatizados.</li>
-<li>10 desafíos técnicos solucionados.</li>
 <li>Reducción del tiempo de validación de <strong>~50 min a ~9 min (~82%).</strong></li>
-<li>Optimización de ejecución mediante comandos reutilizables.</li>
-<li>Estandarización de scripts para ejecución local, desarrollo, reporting y pruebas cross-browser.</li>
-<li>Generación automática de reportes HTML y JSON.</li>
+<li>Resolución de 10 desafíos técnicos relacionados con estabilidad E2E, contenido dinámico y ejecución cross-browser.</li>
+<li>Implementación de validaciones automatizadas para flujos de generación de documentación impulsados por IA.</li>
+<li>Cobertura automatizada de Smoke, Negative y Regression Testing.</li>
+<li>Optimización de ejecución mediante reutilización de sesiones autenticadas.</li>
+<li>Generación automática de reportes HTML y JSON para análisis de resultados.</li>
 </ul>
 
 <p>
 <strong>👇 LINKS</strong>
 </p>
+
 <a href="https://github.com/avandyck16/Sprintline-Automated-Testing-JS-Cypress"> 
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a> 
-  <br>
+</a>
+
+<br>
+
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37c57b95081080568907e2df4c26e39f">
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
-    </a>
+</a>
+
 </div>
 </details>
 <br>
@@ -161,26 +254,67 @@ BrandHub E2E Testing Framework - Azure
 </summary>
 
 <br>
+
 <div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
+
 <p>
-<strong>Stack:</strong> • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
+<strong>Proyecto</strong>
 </p>
 
 <p>
-Automatización E2E para Brandhub; una plataforma de branding impulsada por IA con GPT-5, integrada a Azure DevOps para BVT, regresión y validaciones post-deployment.
+Automatización E2E para una plataforma de branding impulsada por inteligencia artificial, enfocada en la generación y gestión de contenido visual mediante modelos avanzados de IA.
+
+La plataforma permite a los usuarios crear conceptos de marca, generar recursos visuales y validar diferentes configuraciones dentro de un flujo digital asistido por IA.
+
 </p>
 
 <p>
-<strong>📌 Aspectos destacados:</strong>
+<strong>Objetivo</strong>
+</p>
+
+<p>
+Implementar una suite de automatización E2E integrada al proceso de Build Validation Testing (BVT), regresión y validaciones post-deployment para garantizar la estabilidad de funcionalidades críticas antes y después de cada entrega.
+
+La estrategia fue diseñada para reducir el tiempo de validación manual, aumentar la confiabilidad de las ejecuciones y detectar regresiones tempranas dentro del ciclo de desarrollo.
+
+</p>
+
+<p>
+<strong>Descripción de la Solución</strong>
+</p>
+
+<p>
+Diseñé e implementé un framework de automatización utilizando Cypress y JavaScript para validar los principales flujos funcionales de BrandHub.
+
+La solución fue integrada con Azure DevOps mediante pipelines de CI/CD, permitiendo ejecutar validaciones automatizadas en diferentes etapas del ciclo de entrega.
+
+La arquitectura permite trabajar con múltiples ambientes mediante variables de entorno, generación automática de artifacts y reportes para facilitar el análisis de resultados.
+
+Los escenarios fueron diseñados para representar flujos reales de usuario, incluyendo validaciones funcionales, interacción con elementos dinámicos, estabilidad de ejecución y procesos de generación de contenido mediante IA.
+
+</p>
+
+<p>
+<strong>Stack:</strong> Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage · Mochawesome Reporter
+</p>
+
+<p>
+<strong>Logros y Resultados</strong>
 </p>
 
 <ul>
 <li><strong>36</strong> escenarios automatizados.</li>
 <li>Reducción del tiempo de validación de <strong>~45 min a ~5 min.</strong></li>
-<li><strong>7</strong> Desafíos técnicos solucionados.</li>
-<li>Compatibilidad con 3 entornos de ejecución.</li>
-<li>Generación automática de reportes y artifacts.</li>
-<li>Resolución de desafíos de estabilidad E2E: cold starts, flaky tests, flujos dinámicos y CI/CD.</li>
+<li>Resolución de <strong>7 desafíos técnicos</strong> relacionados con estabilidad E2E como:</li>
+<ul>
+<li>Mitigación de <strong>cold starts</strong> en servicios backend durante ejecuciones automatizadas.</li>
+<li>Estabilización de pruebas mediante optimización de selectores y manejo de elementos dinámicos.</li>
+<li>Control de <strong>flaky tests</strong> mediante mejoras en sincronización y estrategias de espera.</li>
+</ul>
+<li>Implementación de cobertura automatizada para procesos críticos de la plataforma.</li>
+<li>Compatibilidad con <strong>3 ambientes de ejecución</strong> mediante configuración dinámica.</li>
+<li>Integración de reportes automáticos y artifacts dentro del pipeline CI/CD.</li>
+<li>Resolución de desafíos relacionados con cold starts, flaky tests, flujos dinámicos y ejecución automatizada.</li>
 </ul>
 
 <br>
@@ -204,8 +338,10 @@ Automatización E2E para Brandhub; una plataforma de branding impulsada por IA c
 <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b95081080148201ec78ed41344c">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+
 </div>
 </details>
+
 <br>
 
 <!-- ──────────────────────────────────────────────────────── -->
@@ -214,51 +350,62 @@ Automatización E2E para Brandhub; una plataforma de branding impulsada por IA c
 
 <summary>
 <span style="border:1px solid #0a0a0a; padding:10px; border-radius:8px; background:#dfdfdf; color:#000000; font-weight:bold;">
-Framework de Automatización e Integración CI/CD
+Automation Framework & CI/CD Integration
 </span>
 </summary>
 
 <br>
+
 <div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
+
 <p>
-<strong>Stack:</strong> Cypress · Azure DevOps · YAML Pipelines · Mochawesome · CI/CD
+<strong>Proyecto</strong>
 </p>
 
 <p>
-• Implementación del framework base de automatización con Cypress e integración dentro de pipelines CI/CD en Azure DevOps, definiendo la estructura de suites, configuración YAML, ejecución automatizada y generación de evidencia mediante reportes HTML/JSON. La solución permitió incorporar validaciones automatizadas dentro del flujo BUILD → TEST → DEPLOY hacia ambientes DEV y PROD.
+Implementación de un framework base de automatización E2E con integración CI/CD utilizando Cypress y Azure DevOps.
+
+La solución fue diseñada para incorporar validaciones automatizadas dentro del flujo de entrega de software, permitiendo ejecutar pruebas en ambientes DEV y PROD mediante pipelines automatizados.
+
 </p>
 
 <p>
-<strong>📌 Objetivo</strong>
+<strong>Objetivo</strong>
 </p>
 
 <p>
-Establecer una base reutilizable de automatización dentro de la arquitectura de pipelines existente, facilitando la incorporación de nuevas suites, manejo de configuración externa, generación de evidencia y escalabilidad futura del proceso de testing.
+Establecer una arquitectura reutilizable de automatización que permitiera integrar pruebas funcionales dentro del ciclo BUILD → TEST → DEPLOY, facilitando la ejecución continua, generación de evidencia y escalabilidad futura de nuevas suites de testing.
 </p>
 
 <p>
-<strong>📌 Logros y Resultados</strong>
+<strong>Descripción de la Solución</strong>
+</p>
+
+<p>
+Diseñé e implementé la estructura inicial del framework de automatización utilizando Cypress, JavaScript y Azure DevOps.
+
+La solución fue integrada mediante pipelines YAML para configurar la ejecución automatizada de pruebas, manejo de variables de entorno, publicación de artifacts y generación de reportes HTML/JSON mediante Mochawesome.
+
+La arquitectura permitió establecer una base reutilizable para futuras implementaciones de automatización, separando la configuración del framework, ejecución de pruebas y generación de evidencia dentro del proceso CI/CD.
+
+</p>
+
+<p>
+<strong>Stack:</strong> • Cypress · JavaScript · Azure DevOps · YAML Pipelines · Mochawesome · CI/CD
+</p>
+
+<p>
+<strong>Logros y Resultados</strong>
 </p>
 
 <ul>
-<li>Implementé la estructura inicial del framework Cypress para aplicaciones web.</li>
-<li>Integré la ejecución automatizada dentro de Azure DevOps mediante configuración YAML.</li>
-<li>Implementé generación automática de reportes y publicación de artifacts.</li>
-<li>Establecí una base reutilizable para futuras estrategias de automatización.</li>
-</ul>
-
-<p>
-<strong>• Tecnologías Utilizadas</strong>
-</p>
-
-<ul>
-<li>Azure DevOps</li>
-<li>YAML Pipelines</li>
-<li>Cypress</li>
-<li>JavaScript</li>
-<li>Mochawesome</li>
-<li>Azure Artifacts</li>
-<li>Git / GitHub Workflow</li>
+<li>Implementación del framework base de automatización E2E utilizando Cypress.</li>
+<li>Integración de ejecución automatizada dentro de Azure DevOps mediante pipelines YAML.</li>
+<li>Configuración del flujo BUILD → TEST → DEPLOY para validaciones automatizadas.</li>
+<li>Implementación de generación automática de reportes HTML y JSON.</li>
+<li>Publicación de artifacts para análisis de resultados de ejecución.</li>
+<li>Configuración de variables externas para ejecución en diferentes ambientes.</li>
+<li>Creación de una base escalable para incorporación de nuevas suites de automatización.</li>
 </ul>
 
 <br>
@@ -284,7 +431,9 @@ Establecer una base reutilizable de automatización dentro de la arquitectura de
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b950810803ebfe5fc914b1da74c">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+
 </div>
+
 </details>
 <br>
 
