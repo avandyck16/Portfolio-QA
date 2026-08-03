@@ -66,6 +66,8 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 
 <br>
 
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
+
 <p>
 <strong>Stack:</strong> • Cypress · JavaScript · Mochawesome · Stripe Integration Testing · CI/CD
 </p>
@@ -99,6 +101,7 @@ Suite de automatización E2E para una plataforma SaaS de logística y gestión d
 <a href="https://www.notion.so/qa-warrior/Projects-Portfolio-08a7f2a1544a48d391cd91eaa5423c2d?source=copy_link#3ad57b95081080da9505c763b72ba02f">
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
     </a>
+</div>
 </details>
 <br>
 
@@ -111,7 +114,7 @@ SprintLine E2E Automation Framework
 </span>
 </summary>
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong>• Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
 </p>
@@ -143,6 +146,7 @@ Suite de automatización E2E para Sprintline; una plataforma impulsada por IA pa
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37c57b95081080568907e2df4c26e39f">
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
     </a>
+</div>
 </details>
 <br>
 
@@ -157,7 +161,7 @@ BrandHub E2E Testing Framework - Azure
 </summary>
 
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong> • Cypress · JavaScript · Azure DevOps · CI/CD · Azure Storage
 </p>
@@ -200,6 +204,7 @@ Automatización E2E para Brandhub; una plataforma de branding impulsada por IA c
 <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b95081080148201ec78ed41344c">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+</div>
 </details>
 <br>
 
@@ -214,7 +219,7 @@ Framework de Automatización e Integración CI/CD
 </summary>
 
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong> Cypress · Azure DevOps · YAML Pipelines · Mochawesome · CI/CD
 </p>
@@ -279,6 +284,7 @@ Establecer una base reutilizable de automatización dentro de la arquitectura de
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b950810803ebfe5fc914b1da74c">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+</div>
 </details>
 <br>
 
@@ -295,7 +301,7 @@ Urban Scooter — End-to-End Quality Validation
 </summary>
 
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong> • Manual Testing · API Testing · Database Validation · Jira · Test Design Techniques
 </p>
@@ -337,6 +343,7 @@ Validación integral del sistema Urban Scooter mediante pruebas en múltiples ca
 <a href="https://www.notion.so/qa-warrior/Projects-Portfolio-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b9508108001b64cfc5ae448076a">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+</div>
 </details>
 <br>
 
@@ -351,7 +358,7 @@ Urban.Lunch — Mobile Apps Testing
 </summary>
 
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong> • Android Testing · Android Studio · Jira · Figma · Log Analysis
 </p>
@@ -389,6 +396,7 @@ Validación funcional de la aplicación móvil Urban.Lunch enfocada en el compor
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b950810809394f1d150979c9206">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+</div>
 </details>
 <br>
 
@@ -403,7 +411,7 @@ Automatización de Pruebas API – Urban Grocers
 </summary>
 
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong> Python · Pytest · Requests · Git Bash · GitHub (SSH)
 </p>
@@ -442,6 +450,7 @@ Implementación de un framework de automatización de pruebas API para la valida
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b9508108072b56ec17a82659834">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+</div>
 </details>
 <br>
 
@@ -456,7 +465,7 @@ Urban Routes – UI & Functional Testing
 </summary>
 
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong> Manual Testing · UI Testing · Test Design · Cross-Browser Validation · Figma Interpretation
 </p>
@@ -495,6 +504,7 @@ Proyecto enfocado en la validación del módulo de reserva de automóviles en Ur
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b9508108037bd28d617663e95ae">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+</div>
 </details>
 <br>
 
@@ -509,7 +519,7 @@ Urban Routes – E2E Taxi Booking Automation
 </summary>
 
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong> Python · Selenium WebDriver · Pytest · Page Object Model (POM)
 </p>
@@ -548,6 +558,7 @@ Proyecto de automatización E2E enfocado en validar el flujo completo de solicit
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b95081080d8a6a2cc0ed1ca4083">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+</div>
 </details>
 <br>
 
@@ -562,7 +573,7 @@ Proyecto de automatización E2E enfocado en validar el flujo completo de solicit
 </summary>
 
 <br>
-
+<div style="border:1px solid #cccccc; padding:15px; border-radius:8px; background:#fafafa; color:#000000; margin-top:10px;">
 <p>
 <strong>Stack:</strong> • Windows Batch (.bat) · CMD · Windows Administration · Scripting · Automation
 </p>
@@ -610,6 +621,7 @@ Toolkit de administración y mantenimiento para Windows desarrollado como proyec
 <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40d6e31?source=copy_link#37a57b95081080f29c65fd61abacbc3e">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+</div>
 </details>
 <br>
 
