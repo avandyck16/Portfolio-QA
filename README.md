@@ -58,10 +58,12 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 
 <details>
 <summary>
-<div style="border:3px solid #0a0a0a; padding:10px; border-radius:8px; background:#dfdfdf; color:#000000; font-weight:bold;">
+<div style="border:1px solid #0a0a0a; padding:10px; border-radius:8px; background:#dfdfdf; color:#000000; font-weight:bold;">
 3PLicity E2E Automation Framework
 </div>
 </summary>
+
+<br>
 
 **Stack:** • Cypress · JavaScript · Mochawesome · Stripe Integration Testing · CI/CD
 
