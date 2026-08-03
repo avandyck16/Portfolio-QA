@@ -1,9 +1,3 @@
-ℹ️Este portafolio reúne proyectos profesionales, académicos y personales completamente documentados.
-
-ℹ️ _Cada uno incluye repositorio, problemas reales de automatización, case study, desafíos técnicos, soluciones implementadas, métricas, snippets de código y evidencia visual de resultados._
-
----
-
 ### **Acerca de mí**
 
 ● QA Engineer con bases sólidas y experiencia en estrategias de testing automatizado y manual, con inglés C1 fluido.
