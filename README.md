@@ -1,8 +1,6 @@
 ### **Acerca de mí**
 
-● QA Engineer con bases sólidas y experiencia en estrategias de testing automatizado y manual, con inglés C1 fluido.
-
-● Estas estrategias incluyen **Shift-Left Testing, E2E, SIT, UAT, BVT, smoke, regresión, performance, load, stress, APIs, Git Workflow, Organización de Specs, entornos, commands, scripts, front-end selectors, YAML pipeline configuration, debugging**.
+QA Engineer con experiencia en estrategias y ejecución de pruebas manuales y automatizadas utilizando Cypress y JavaScript, enfocado en la calidad del producto, la detección temprana de riesgos y una cultura de ownership compartida a lo largo del SDLC. Experimentado en la colaboración multifuncional con equipos de desarrollo, producto y stakeholders para garantizar entregas confiables alineadas con los objetivos de negocio dentro de entornos Agile/SCRUM.
 
 ---
 
@@ -12,16 +10,10 @@
       <img src="https://skills.syvixor.com/api/icons?perline=8&i=azure,cypress,playwright,k6,jest,visualstudiocode,javascript,typescript,yaml,powershell,postman,markdown,chatgpt,windows,apple,android" />
   </p>
 
-<!--
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
-</p>
--->
-
 ### ➡️ Experiencia Profesional Última / Actual
 
 <p align="center">
-Alset, Inc. →  QA Engineer Manual & Automated E2E Testing
+Alset, Inc. | QA Engineer | Manual & Automated Testing
 </p>
 
 ---
@@ -47,8 +39,6 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
    <img src="https://img.shields.io/badge/Ver_Casos_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
-<!--[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck) -->
-
 </div>
 <br>
 
@@ -66,7 +56,12 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 
 ## PROYECTOS DOCUMENTADOS
 
-### 3PLicity E2E Automation Framework
+<details>
+<summary>
+<div style="border:3px solid #0a0a0a; padding:10px; border-radius:8px; background:#dfdfdf; color:#000000; font-weight:bold;">
+3PLicity E2E Automation Framework
+</div>
+</summary>
 
 **Stack:** • Cypress · JavaScript · Mochawesome · Stripe Integration Testing · CI/CD
 
@@ -98,6 +93,7 @@ Suite de automatización E2E para una plataforma SaaS de logística y gestión d
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
     </a>
 
+</details>
 ────────────────────────────────────────────────────────
 
 ### SprintLine E2E Automation Framework
