@@ -97,14 +97,16 @@ Diseñé e implementé un framework de automatización utilizando Cypress y Java
 
 La solución fue estructurada mediante suites independientes organizadas por dominio de negocio:
 
-- Company workflows
-- Merchant workflows
-- Purchase Order lifecycle
-- Sales Order lifecycle
-- Inventory validation
-
+<ul>
+<li>- Company workflows</li>
+<li>- Merchant workflows</li>
+<li>- Purchase Order lifecycle</li>
+<li>- Sales Order lifecycle</li>
+<li>- Inventory validation</li>
+</ul>
+<br>
 La arquitectura permite ejecutar pruebas en distintos ambientes mediante variables de entorno, comandos personalizados reutilizables y configuración dinámica de datos de prueba.
-
+<br>
 Los escenarios fueron diseñados para representar flujos reales de usuario, incluyendo interacción entre diferentes roles, validación de estados del sistema y procesos operativos completos.
 
 </p>
@@ -189,7 +191,7 @@ La estrategia fue diseñada para reducir el tiempo de validación manual, aument
 </p>
 
 <p>
-<strong>Descripción de la Solución</strong>
+<strong>Solution Overview</strong>
 </p>
 
 <p>
@@ -280,7 +282,7 @@ La estrategia fue diseñada para reducir el tiempo de validación manual, aument
 </p>
 
 <p>
-<strong>Descripción de la Solución</strong>
+<strong>Solution Overview</strong>
 </p>
 
 <p>
@@ -378,7 +380,7 @@ Establecer una arquitectura reutilizable de automatización que permitiera integ
 </p>
 
 <p>
-<strong>Descripción de la Solución</strong>
+<strong>Solution Overview</strong>
 </p>
 
 <p>
