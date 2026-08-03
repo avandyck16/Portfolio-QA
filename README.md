@@ -131,6 +131,7 @@ Suite de automatización E2E para Sprintline; una plataforma impulsada por IA pa
 <li>Optimización de ejecución mediante comandos reutilizables.</li>
 <li>Estandarización de scripts para ejecución local, desarrollo, reporting y pruebas cross-browser.</li>
 <li>Generación automática de reportes HTML y JSON.</li>
+</ul>
 
 <p>
 <strong>👇 LINKS</strong>
