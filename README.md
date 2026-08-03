@@ -1,4 +1,4 @@
-## QA Projects Portfolio
+## QA Engineer | Test Automation & Manual Testing | Projects Portfolio
 
 ### **Acerca de mí**
 
@@ -60,9 +60,9 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 
 <details>
 <summary>
-<div style="border:1px solid #0a0a0a; padding:10px; border-radius:8px; background:#dfdfdf; color:#000000; font-weight:bold;">
+<span style="border:1px solid #0a0a0a; padding:10px; border-radius:8px; background:#dfdfdf; color:#000000; font-weight:bold;">
 3PLicity E2E Automation Framework
-</div>
+</span>
 </summary>
 
 <br>
