@@ -42,7 +42,6 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 </a>
 
 </div>
-<br>
 
 <div align="center">
 <a href="mailto:acontreras9012@gmail.com">
@@ -67,27 +66,39 @@ _"Como docente profesional en años anteriores, aprendí y trabajé junto a uno 
 
 <br>
 
-**Stack:** • Cypress · JavaScript · Mochawesome · Stripe Integration Testing · CI/CD
+<p>
+<strong>Stack:</strong> • Cypress · JavaScript · Mochawesome · Stripe Integration Testing · CI/CD
+</p>
 
+<p>
 Suite de automatización E2E para una plataforma SaaS de logística y gestión de operaciones 3PL, enfocada en validar flujos críticos B2B como compañías, merchants, órdenes de compra, órdenes de venta e inventario.
+</p>
 
-📌 **Aspectos destacados:**
+<p>
+<strong>📌Aspectos destacados:</strong>
+</p>
 
-• Automatización de flujos críticos multi-rol: Company, Merchant, Purchase Order, Sales Order e Inventory.
+<ul>
 
-• Reducción del tiempo de validación manual de **~1.15 h a ~2.42 min (~96%).**
+<li>• Automatización de flujos críticos multi-rol: Company, Merchant, Purchase Order, Sales Order e Inventory.<li>
 
-• Implementación de limpieza automática de datos generados durante ejecución para evitar conflictos entre pruebas.
+<li>• Reducción del tiempo de validación manual de <strong>~1.15 h a ~2.42 min (~96%).**</strong></li>
 
-• Integración de validaciones de pago mediante manejo de iframes cross-origin de Stripe.
+<li>• Implementación de limpieza automática de datos generados durante ejecución para evitar conflictos entre pruebas.</li>
 
-• Manejo seguro de información sensible mediante variables temporales de ejecución.
+<li>• Integración de validaciones de pago mediante manejo de iframes cross-origin de Stripe.</li>
 
-• Resolución de desafíos E2E relacionados con sincronización, elementos dinámicos y dependencias externas.
+<li>• Manejo seguro de información sensible mediante variables temporales de ejecución.</li>
 
-• Automatización de escenarios con dispositivos externos mediante simulación de scanner de códigos de barras.
+<li>• Resolución de desafíos E2E relacionados con sincronización, elementos dinámicos y dependencias externas.</li>
 
-👇 **LINKS**
+<li>• Automatización de escenarios con dispositivos externos mediante simulación de scanner de códigos de barras.</li>
+
+</ul>
+
+<p>
+👇 <strong>LINKS</strong>
+</p>
 
 <a href="https://github.com/avandyck16/3PLicity-Supply-Chain-Platform-E2E-Automation"> 
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
