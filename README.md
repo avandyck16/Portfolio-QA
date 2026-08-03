@@ -79,21 +79,13 @@ Suite de automatización E2E para una plataforma SaaS de logística y gestión d
 </p>
 
 <ul>
-
-<li>• Automatización de flujos críticos multi-rol: Company, Merchant, Purchase Order, Sales Order e Inventory.<li>
-
-<li>• Reducción del tiempo de validación manual de <strong>~1.15 h a ~2.42 min (~96%).**</strong></li>
-
-<li>• Implementación de limpieza automática de datos generados durante ejecución para evitar conflictos entre pruebas.</li>
-
-<li>• Integración de validaciones de pago mediante manejo de iframes cross-origin de Stripe.</li>
-
-<li>• Manejo seguro de información sensible mediante variables temporales de ejecución.</li>
-
-<li>• Resolución de desafíos E2E relacionados con sincronización, elementos dinámicos y dependencias externas.</li>
-
-<li>• Automatización de escenarios con dispositivos externos mediante simulación de scanner de códigos de barras.</li>
-
+<li> Automatización de flujos críticos multi-rol: Company, Merchant, Purchase Order, Sales Order e Inventory.</li>
+<li> Reducción del tiempo de validación manual de <strong>~1.15 h a ~2.42 min (~96%).**</strong></li>
+<li> Implementación de limpieza automática de datos generados durante ejecución para evitar conflictos entre pruebas.</li>
+<li> Integración de validaciones de pago mediante manejo de iframes cross-origin de Stripe.</li>
+<li> Manejo seguro de información sensible mediante variables temporales de ejecución.</li>
+<li> Resolución de desafíos E2E relacionados con sincronización, elementos dinámicos y dependencias externas.</li>
+<li> Automatización de escenarios con dispositivos externos mediante simulación de scanner de códigos de barras.</li>
 </ul>
 
 <p>
@@ -107,8 +99,8 @@ Suite de automatización E2E para una plataforma SaaS de logística y gestión d
 <a href="https://www.notion.so/qa-warrior/Projects-Portfolio-08a7f2a1544a48d391cd91eaa5423c2d?source=copy_link#3ad57b95081080da9505c763b72ba02f">
     <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
     </a>
-
 </details>
+
 ────────────────────────────────────────────────────────
 
 ### SprintLine E2E Automation Framework
