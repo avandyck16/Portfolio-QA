@@ -5,4 +5,4 @@ description: ¡Hola! Bienvenido a mi listado de proyectos más relevantes docume
 repository: https://github.com/avandyck16
 show_downloads: false
 #google_analytics: [Visit my GitHub Profile](https://github.com/avandyck16)
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
