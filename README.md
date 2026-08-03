@@ -199,9 +199,7 @@ Automatización E2E para Brandhub; una plataforma de branding impulsada por IA c
 <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b95081080148201ec78ed41344c">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
-
 </details>
-
 <br>
 
 <!-- ──────────────────────────────────────────────────────── -->
@@ -280,8 +278,8 @@ Establecer una base reutilizable de automatización dentro de la arquitectura de
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#37957b950810803ebfe5fc914b1da74c">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
-
 </details>
+<br>
 
 <!-- ──────────────────────────────────────────────────────── -->
 
@@ -338,10 +336,10 @@ Validación integral del sistema Urban Scooter mediante pruebas en múltiples ca
 <a href="https://www.notion.so/qa-warrior/Projects-Portfolio-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b9508108001b64cfc5ae448076a">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
-
 </details>
-
 <br>
+
+<!-- ──────────────────────────────────────────────────────── -->
 
 <details>
 
@@ -390,9 +388,7 @@ Validación funcional de la aplicación móvil Urban.Lunch enfocada en el compor
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b950810809394f1d150979c9206">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
-
 </details>
-
 <br>
 
 <!-- ──────────────────────────────────────────────────────── -->
@@ -445,10 +441,10 @@ Implementación de un framework de automatización de pruebas API para la valida
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#13457b9508108072b56ec17a82659834">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
-
 </details>
-
 <br>
+
+<!-- ──────────────────────────────────────────────────────── -->
 
 <details>
 
@@ -498,10 +494,10 @@ Proyecto enfocado en la validación del módulo de reserva de automóviles en Ur
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b9508108037bd28d617663e95ae">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
-
 </details>
-
 <br>
+
+<!-- ──────────────────────────────────────────────────────── -->
 
 <details>
 
@@ -551,11 +547,9 @@ Proyecto de automatización E2E enfocado en validar el flujo completo de solicit
 <a href="https://www.notion.so/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40e6d31?source=copy_link#38057b95081080d8a6a2cc0ed1ca4083">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
-
 </details>
-
 <br>
-  
+
 <!-- ──────────────────────────────────────────────────────── -->
 
 <details>
@@ -615,10 +609,10 @@ Toolkit de administración y mantenimiento para Windows desarrollado como proyec
 <a href="https://app.notion.com/p/qa-warrior/Portafolio-de-Proyectos-b5ddcc541c1d4e90b6787dcde40d6e31?source=copy_link#37a57b95081080f29c65fd61abacbc3e">
 <img src="https://img.shields.io/badge/Ver_Case_Study_en_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
-
 </details>
-
 <br>
+
+<!-- ──────────────────────────────────────────────────────── -->
 
 ---
 
