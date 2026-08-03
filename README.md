@@ -1,3 +1,5 @@
+## QA Projects Portfolio
+
 ### **Acerca de mí**
 
 QA Engineer con experiencia en estrategias y ejecución de pruebas manuales y automatizadas utilizando Cypress y JavaScript, enfocado en la calidad del producto, la detección temprana de riesgos y una cultura de ownership compartida a lo largo del SDLC. Experimentado en la colaboración multifuncional con equipos de desarrollo, producto y stakeholders para garantizar entregas confiables alineadas con los objetivos de negocio dentro de entornos Agile/SCRUM.
